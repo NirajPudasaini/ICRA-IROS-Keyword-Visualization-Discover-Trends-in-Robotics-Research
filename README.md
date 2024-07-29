@@ -17,3 +17,22 @@ Check out the Gradio interface [here](https://huggingface.co/spaces/NirajPudasai
 3. **Explore Insights**: View the segmented bar chart to understand the common keywords and their frequencies.
 
 ![ICRA 2022-20224 and IROS 2022-2023](icra24_iros23_kw.png)
+
+## Citation
+
+If you use this code or data in your research, please cite:
+
+```bibtex
+@online{pudasaini2024,
+  author = {Pudasaini, Niraj},
+  title = {ICRA \& IROS Keyword Visualization: Discover Trends in Robotics Research Discover Trends in Robotics Research},
+  date = {2024-07-30},
+  url = {https://github.com/NirajPudasaini/ICRA-IROS-Keyword-Visualization-Discover-Trends-in-Robotics-Research},
+  langid = {en}
+}
+```
+
+For attribution, please cite this work as:
+
+**Pudasaini, Niraj. 2024. “ICRA & IROS Keyword Visualization: Discover Trends in Robotics Research.” July 30, 2024. https://github.com/NirajPudasaini/ICRA-IROS-Keyword-Visualization-Discover-Trends-in-Robotics-Research.**
+```
