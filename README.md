@@ -25,7 +25,7 @@ If you use this code or data in your research, please cite:
 ```bibtex
 @online{pudasaini2024,
   author = {Pudasaini, Niraj},
-  title = {ICRA \& IROS Keyword Visualization: Discover Trends in Robotics Research Discover Trends in Robotics Research},
+  title = {ICRA & IROS Keyword Visualization: Discover Trends in Robotics Research Discover Trends in Robotics Research},
   date = {2024-07-30},
   url = {https://github.com/NirajPudasaini/ICRA-IROS-Keyword-Visualization-Discover-Trends-in-Robotics-Research},
   langid = {en}
