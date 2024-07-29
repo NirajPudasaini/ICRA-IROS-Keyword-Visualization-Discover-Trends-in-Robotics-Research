@@ -68,12 +68,12 @@ def plot_keywords(keywords_data):
 def process_selection(selected_combinations):
     # Define paths to your CSV files
     file_paths = {
-        "ICRA 2022": "conferences_lists/ICRA-2022.csv",
-        "ICRA 2023": "conferences_lists/ICRA-2023.csv",
-        "ICRA 2024": "conferences_lists/ICRA-2024.csv",
-        "IROS 2022": "conferences_lists/IROS-2022.csv",
-        "IROS 2023": "conferences_lists/IROS-2023.csv",
-        "IROS 2024": "conferences_lists/IROS-2024.csv"
+        "ICRA 2022": "path/to/ICRA-2022.csv",
+        "ICRA 2023": "path/to/ICRA-2023.csv",
+        "ICRA 2024": "path/to/ICRA-2024.csv",
+        "IROS 2022": "path/to/IROS-2022.csv",
+        "IROS 2023": "path/to/IROS-2023.csv",
+        "IROS 2024": "path/to/IROS-2024.csv"
     }
 
     keywords_data = {}
