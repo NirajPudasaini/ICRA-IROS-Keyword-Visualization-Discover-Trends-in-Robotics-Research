@@ -1,0 +1,1655 @@
+Picking up Speed: Continuous-Time Lidar-Only Odometry Using Doppler Velocity Measurements
+Stein ICP for Uncertainty Estimation in Point Cloud Matching
+Direct and Sparse Deformable Tracking
+ASRO-DIO: Active Subspace Random Optimization Based Depth Inertial Odometry
+Discrete-Continuous Smoothing and Mapping
+Anderson Acceleration for On-Manifold Iterated Error State Kalman Filters
+Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features
+BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM
+Gaussian Mixture Midway-Merge for Object SLAM with Pose Ambiguity
+Design and Characterization of a 3D-Printed Pneumatically-Driven Bistable Valve with Tunable Characteristics
+Design of Fully Controllable and Continuous Programmable Surface Based on Machine Learning
+On the Use of Magnets to Robustify the Motion Control of Soft Hands
+Kinegami: Algorithmic Design of Compliant Kinematic Chains from Tubular Origami
+Entrainment During Human Locomotion Using a Lightweight Soft Robotic Hip Exosuit (SR-HExo)
+SOPHIE: SOft and Flexible Aerial Vehicle for PHysical Interaction with the Environment
+A Tensegrity-Based Inchworm-Like Robot for Crawling in Pipes with Varying Diameters
+Untethered Robotic Millipede Driven by Low-Pressure Microfluidic Actuators for Multi-Terrain Exploration
+FEA-Based Soft Robotic Modeling: Simulating a Soft-Actuator in SOFA
+Inflated Bendable Eversion Cantilever Mechanism with Inner Skeleton for Increased Stiffness
+Energy-Based Design Optimization of a Miniature Wave-Like Robot Inside Curved Compliant Tubes
+A Palm-Sized Omnidirectional Mobile Robot Driven by 2-DOF Torus Wheels
+Flipper-Style Locomotion through Strong Expanding Modular Robots
+Simplified Configuration Design of Anthropomorphic Hand Imitating Specific Human Hand Grasps
+Meta Reinforcement Learning for Optimal Design of Legged Robots
+Advanced 2-DOF Counterbalance Mechanism Based on Gear Units and Springs to Minimize Required Torques of Robot Arm
+Permanent-Magnetically Amplified Robotic Gripper with Less Clamping Width Influence on Compensation Realized by a Stepless Width Adjustment Mechanism
+Design of a New Bio-Inspired Dual-Axis Compliant Micromanipulator with Millimeter Strokes
+Optimal Elastic Wing for Flapping-Wing Robots through Passive Morphing
+Robust Multi-Robot Trajectory Optimization Using Alternating Direction Method of Multiplier
+Autonomous Exploration in a Cluttered Environment for a Mobile Robot with 2D-Map Segmentation and Object Detection
+Distributionally Safe Path Planning: Wasserstein Safe RRT
+Sim2Real Learning of Obstacle Avoidance for Robotic Manipulators in Uncertain Environments
+Bidirectional Sampling-Based Motion Planning without Two-Point Boundary Value Solution
+Long-Horizon Multi-Robot Rearrangement Planning for Construction Assembly
+A Reachability-Based Spatio-Temporal Sampling Strategy for Kinodynamic Motion Planning
+Efficient Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model
+Efficient Anytime CLF Reactive Planning System for a Bipedal Robot on Undulating Terrain
+A Framework to Co-Optimize Robot Exploration and Task Planning in Unknown Environments
+Binarized P-Network: Deep Reinforcement Learning of Robot Control from Raw Images on FPGA
+Automating Reinforcement Learning with Example-Based Resets
+Improving the Robustness of Reinforcement Learning Policies with L1 Adaptive Control
+Developing Cooperative Policies for Multi-Stage Reinforcement Learning Tasks
+Learning Performance Graphs from Demonstrations Via Task-Based Evaluations
+Tumbling Robot Control Using Reinforcement Learning
+Guided Reinforcement Learning – a Review and Evaluation for Efficient and Effective Real-World Robotics
+Robust Adaptive Ensemble Adversary Reinforcement Learning
+GIN: Graph-Based Interaction-Aware Constraint Policy Optimization for Autonomous Driving
+Adaptively Calibrated Critic Estimates for Deep Reinforcement Learning
+An Investigation on the Effect of Actuation Pattern on the Power Consumption of Legged Robots for Extraterrestrial Exploration
+Intent Inference-Based Ship Collision Avoidance in Encounters with Rule-Violating Vessels
+Nezha-Mini: Design and Locomotion of a Miniature Low-Cost Hybrid Aerial Underwater Vehicle
+CPG-Based Motion Planning of Hybrid Underwater Hexapod Robot for Wall Climbing and Transition
+Improving Self-Consistency in Underwater Mapping through Laser-Based Loop Closure
+Passive Inverted Ultra-Short Baseline Positioning for a Disc-Shaped Autonomous Underwater Vehicle: Design and Field Experiments
+The Robustness of Tether Friction in Non-Idealized Terrains
+Reconfigurable Inflated Soft Arms
+A Soft Hybrid-Actuated Continuum Robot Based on Dual Origami Structures
+Direct and Inverse Modeling of Soft Robots by Learning a Condensed FEM Model
+Limit Cycle Generation with Pneumatically Driven Physical Reservoir Computing
+Toward Zero-Shot Sim-To-Real Transfer Learning for Pneumatic Soft Robot 3D Proprioception Sensing
+Cross-Domain Transfer Learning and State Inference for Soft Robots Via a Semi-Supervised Sequential Variational Bayes Framework
+"Image-Based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots Via Differentiable Rendering"
+Discrete-Time Model Based Control of Soft Manipulator with FBG Sensing
+A Soft Robot with Three Dimensional Shape Sensing and Contact Recognition Multi-Modal Sensing Via Tunable Soft Optical Sensors
+A Flexible 3D Force Sensor with Tunable Sensitivity
+STEV: Stretchable Triboelectric E-Skin Enabled Proprioceptive Vibration Sensing for Soft Robot
+Design and Development of a Hydrogel-Based Soft Sensor for Multi-Axis Force Control
+"Design and Characterization of a Low Mechanical Loss, High-Resolution Wearable Strain Gauge"
+"Identifying Contact Distance Uncertainty in Whisker Sensing with Tapered, Flexible Whiskers"
+"Learning Decoupled Multi-Touch Force Estimation, Localization and Stretch for Soft Capacitive E-Skin"
+OptiGap: A Modular Optical Sensor System for Bend Localization
+A Silicone-Sponge-Based Variable-Stiffness Device
+Design and Control of a Tunable-Stiffness Coiled-Spring Actuator
+Wirelessly-Controlled Untethered Piezoelectric Planar Soft Robot Capable of Bidirectional Crawling and Rotation
+Origami Folding Enhances Modularity and Mechanical Efficiency of Soft Actuators
+"Characterisation of Antagonistically Actuated, Stiffness-Controllable Joint-Link Units for Cobots"
+A Fluidic Actuator with an Internal Stiffening Structure Inspired by Mammalian Erectile Tissue
+On Tendon Driven Continuum Robots with Compressible Backbones
+FourStr: When Multi-Sensor Fusion Meets Semi-Supervised Learning
+Combining Motion and Appearance for Robust Probabilistic Object Segmentation in Real Time
+Event-Based Real-Time Moving Object Detection Based on IMU Ego-Motion Compensation
+Estimating the Motion of Drawers from Sound
+Sonicverse: A Multisensory Simulation Platform for Embodied Household Agents That See and Hear
+LAPTNet-FPN: Multi-Scale LiDAR-Aided Projective Transform Network for Real Time Semantic Grid Prediction
+Collision-Aware In-Hand 6D Object Pose Estimation Using Multiple Vision-Based Tactile Sensors
+CalibDepth: Unifying Depth Map Representation for Iterative LiDAR-Camera Online Calibration
+Shape Visual Servoing of a Tether Cable from Parabolic Features
+Deep Metric Learning for Visual Servoing: When Pose and Image Meet in Latent Space
+CNN-Based Visual Servoing for Simultaneous Positioning and Flattening of Soft Fabric Parts
+Dynamical System-Based Imitation Learning for Visual Servoing Using the Large Projection Formulation
+Constant Distance and Orientation Following of an Unknown Surface with a Cable-Driven Parallel Robot
+3D Spectral Domain Registration-Based Visual Servoing
+Autonomous Endoscope Control Algorithm with Visibility and Joint Limits Avoidance Constraints for Da Vinci Research Kit Robot
+Safe Control Using Vision-Based Control Barrier Function (V-CBF)
+DC-MOT: Motion Deblurring and Compensation for Multi-Object Tracking in UAV Videos
+Fast Event-Based Double Integral for Real-Time Robotics
+Continuous-Time Gaussian Process Motion-Compensation for Event-Vision Pattern Tracking with Distance Fields
+EXOT: Exit-Aware Object Tracker for Safe Robotic Manipulation of Moving Object
+Mono-STAR: Mono-Camera Scene-Level Tracking and Reconstruction
+DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion
+Fusion of Events and Frames Using 8-DOF Warping Model for Robust Feature Tracking
+3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds
+Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications
+Learning State Conditioned Linear Mappings for Low-Dimensional Control of Robotic Manipulators
+Decoupling Skill Learning from Robotic Control for Generalizable Object Manipulation
+Comparison of Model-Based and Model-Free Reinforcement Learning for Real-World Dexterous Robotic Manipulation Tasks
+Handling Sparse Rewards in Reinforcement Learning Using Model Predictive Control
+Task-Driven Graph Attention for Hierarchical Relational Object Navigation
+Safety-Guaranteed Skill Discovery for Robot Manipulation Tasks
+A Framework for the Unsupervised Inference of Relations between Sensed Object Spatial Distributions and Robot Behaviors
+Learning Video-Conditioned Policies for Unseen Manipulation Tasks
+Learning Food Picking without Food: Fracture Anticipation by Breaking Reusable Fragile Objects
+Learning Risk-Aware Costmaps Via Inverse Reinforcement Learning for Off-Road Navigation
+How Does It Feel? Self-Supervised Costmap Learning for Off-Road Vehicle Traversability
+Global and Reactive Motion Generation with Geometric Fabric Command Sequences
+Enforcing the Consensus between Trajectory Optimization and Policy Learning for Precise Robot Control
+Neural Optimal Control Using Learned System Dynamics
+Learned Risk Metric Maps for Kinodynamic Systems
+Autonomous Drifting with 3 Minutes of Data Via Learned Tire Models
+DDK: A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles
+Meta-Learning-Based Optimal Control for Soft Robotic Manipulators to Interact with Unknown Environments
+Dealing with Sparse Rewards in Continuous Control Robotics Via Heavy-Tailed Policy Optimization
+MPC with Sensor-Based Online Cost Adaptation
+ReachLipBnB: A Branch-And-Bound Method for Reachability Analysis of Neural Network Autonomous Systems Using Lipschitz Bounds
+Gradient-Based Trajectory Optimization with Learned Dynamics
+RAMP-Net: A Robust Adaptive MPC for Quadrotors Via Physics-Informed Neural Network
+3-D Reconstruction Using Monocular Camera and Lights: Multi-View Photometric Stereo for Non-Stationary Robots
+GMM Registration: A Probabilistic Scan Matching Approach for Sonar-Based AUV Navigation
+Neural Implicit Surface Reconstruction Using Imaging Sonar
+Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping
+Stochastic Planning for ASV Navigation Using Satellite Images
+Autonomous Underwater Docking Using Flow State Estimation and Model Predictive Control
+Real-Time Navigation for Autonomous Surface Vehicles in Ice-Covered Waters
+Experiments in Underwater Feature Tracking with Performance Guarantees Using a Small AUV
+Robust Imaging Sonar-Based Place Recognition and Localization in Underwater Environments
+Deep Underwater Monocular Depth Estimation with Single-Beam Echosounder
+Self-Supervised Monocular Depth Underwater
+Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments
+Puppeteer and Marionette: Learning Anticipatory Quadrupedal Locomotion Based on Interactions of a Central Pattern Generator and Supraspinal Drive
+A Performance Optimization Strategy Based on Improved NSGA-II for a Flexible Robotic Fish
+Swarm Robotics Search and Rescue: A Bee-Inspired Swarm Cooperation Approach without Information Exchange
+Achieving Extensive Trajectory Variation in Impulsive Robotic Systems
+Towards Safe Landing of Falling Quadruped Robots Using a 3-DoF Morphable Inertial Tail
+Bioinspired Tearing Manipulation with a Robotic Fish
+Learnable Tegotae-Based Feedback in CPGs with Sparse Observation Produces Efficient and Adaptive Locomotion
+"Multi-Segmented, Adaptive Feet for Versatile Legged Locomotion in Natural Terrain"
+Burst Stimulation for Enhanced Locomotion Control of Terrestrial Cyborg Insects
+Twisting Spine or Rigid Torso: Exploring Quadrupedal Morphology Via Trajectory Optimization
+Dynamic Locomotion of a Quadruped Robot with Active Spine Via Model Predictive Control
+Scalable Task-Driven Robotic Swarm Control Via Collision Avoidance and Learning Mean-Field Control
+STD-Trees: Spatio-Temporal Deformable Trees for Multirotors Kinodynamic Planning
+PredRecon: A Prediction-Boosted Planning Framework for Fast and High-Quality Autonomous Aerial Reconstruction
+Vision-Aided UAV Navigation and Dynamic Obstacle Avoidance Using Gradient-Based B-Spline Trajectory Optimization
+Multi-Agent Spatial Predictive Control with Application to Drone Flocking
+Multimodal Image Registration for GPS-Denied UAV Navigation Based on Disentangled Representations
+SEER: Safe Efficient Exploration for Aerial Robots Using Learning to Predict Information Gain
+Trajectory Planning for the Bidirectional Quadrotor As a Differentially Flat Hybrid System
+Fisher Information Based Active Planning for Aerial Photogrammetry
+Integrated Vector Field and Backstepping Control for Quadcopters
+Learning a Single Near-Hover Position Controller for Vastly Different Quadcopters
+Forming and Controlling Hitches in Midair Using Aerial Robots
+AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking
+Towards a Reliable and Lightweight Onboard Fault Detection in Autonomous Unmanned Aerial Vehicles
+Variable Admittance Interaction Control of UAVs Via Deep Reinforcement Learning
+Learning Tethered Perching for Aerial Robots
+Credible Online Dynamics Learning for Hybrid UAVs
+AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning
+Follow the Rules: Online Signal Temporal Logic Tree Search for Guided Imitation Learning in Stochastic Domains
+Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking
+Weighted Maximum Likelihood for Controller Tuning
+User-Conditioned Neural Control Policies for Mobile Robotics
+Training Efficient Controllers Via Analytic Policy Gradient
+Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation
+Toward Efficient Physical and Algorithmic Design of Automated Garages
+Chronos and CRS: Design of a Miniature Car-Like Robot and a Software Framework for Single and Multi-Agent Robotics and Control
+Multi-Agent Path Integral Control for Interaction-Aware Motion Planning in Urban Canals
+Mixed Observable RRT: Multi-Agent Mission-Planning in Partially Observable Environments
+RTAW: An Attention Inspired Reinforcement Learning Method for Multi-Robot Task Allocation in Warehouse Environments
+Hybrid SUSD-Based Task Allocation for Heterogeneous Multi-Robot Teams
+Search Algorithms for Multi-Agent Teamwise Cooperative Path Finding
+Collaborative Scheduling with Adaptation to Failure for Heterogeneous Robot Teams
+AMSwarm: An Alternating Minimization Approach for Safe Motion Planning of Quadrotor Swarms in Cluttered Environments
+Decentralized Deadlock-Free Trajectory Planning for Quadrotor Swarm in Obstacle-Rich Environments
+A Negative Imaginary Theory-Based Time-Varying Group Formation Tracking Scheme for Multi-Robot Systems: Applications to Quadcopters
+Data-Driven Risk-Sensitive Model Predictive Control for Safe Navigation in Multi-Robot Systems
+Multi-Modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving
+Annotating Covert Hazardous Driving Scenarios Online: Utilizing the Driver's Electroencephalography (EEG) Signals
+Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints
+Model-Agnostic Multi-Agent Perception Framework
+Explainable Action Prediction through Self-Supervision on Scene Graphs
+CueCAn: Cue-Driven Contextual Attention for Identifying Missing Traffic Signs on Unconstrained Roads
+Tackling Clutter in Radar Data - Label Generation and Detection Using PointNet++
+"Effective Combination of Vertical, Longitudinal and Lateral Data for Vehicle Mass Estimation"
+Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles
+Active Probing and Influencing Human Behaviors Via Autonomous Agents
+TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction
+SHAIL: Safety-Aware Hierarchical Adversarial Imitation Learning for Autonomous Driving in Urban Environments
+Reinforcement Learning-Based Optimal Multiple Waypoint Navigation
+DriveIRL: Drive in Real Life with Inverse Reinforcement Learning
+LES: Locally Exploitative Sampling for Robot Path Planning
+Boundary Conditions in Geodesic Motion Planning for Manipulators
+TOFG: A Unified and Fine-Grained Environment Representation in Autonomous Driving
+Unidirectional-Road-Network-Based Global Path Planning for Cleaning Robots in Semi-Structured Environments
+A Hierarchical Decoupling Approach for Fast Temporal Logic Motion Planning
+A Fast Two-Stage Approach for Multi-Goal Path Planning in a Fruit Tree
+Online Whole-Body Motion Planning for Quadrotor Using Multi-Resolution Search
+Intermittent Diffusion Based Path Planning for Heterogeneous Groups of Mobile Sensors in Cluttered Environments
+GANet: Goal Area Network for Motion Forecasting
+FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow
+An Architecture for Reactive Mobile Manipulation On-The-Move
+Multi-Robot Mission Planning in Dynamic Semantic Environments
+A System for Generalized 3D Multi-Object Search
+A General Class of Combinatorial Filters That Can Be Minimized Efficiently
+Cautious Planning with Incremental Symbolic Perception: Designing Verified Reactive Driving Maneuvers
+Decision Diagrams As Plans: Answering Observation-Grounded Queries
+Obstacle Avoidance Using Raycasting and Riemannian Motion Policies at kHz Rates for MAVs
+Adaptive and Explainable Deployment of Navigation Skills Via Hierarchical Deep Reinforcement Learning
+Learning Agile Flight Maneuvers: Deep SE(3) Motion Planning and Control for Quadrotors
+Robust MADER: Decentralized and Asynchronous Multiagent Trajectory Planner Robust to Communication Delay
+Obstacle Identification and Ellipsoidal Decomposition for Fast Motion Planning in Unknown Dynamic Environments
+Safe Operations of an Aerial Swarm Via a Cobot Human Swarm Interface
+MonoGraspNet: 6-DoF Grasping with a Single RGB Image
+USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation
+Semantic Mapping with Confidence Scores through Metric Embeddings and Gaussian Process Classification
+The Third Generation (G3) Dual-Modal and Dual Sensing Mechanisms (DMDSM) Pretouch Sensor for Robotic Grasping
+Learning Height for Top-Down Grasps with the DIGIT Sensor
+Instance-Wise Grasp Synthesis for Robotic Grasping
+Joint Segmentation and Grasp Pose Detection with Multi-Modal Feature Fusion Network
+GraspNeRF: Multiview-Based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF
+Elastic Context: Encoding Elasticity for Data-Driven Models of Textiles
+Vision-Based Six-Dimensional Peg-In-Hole for Practical Connector Insertion
+RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control
+Multi-View Object Pose Estimation from Correspondence Distributions and Epipolar Geometry
+FSG-Net: A Deep Learning Model for Semantic Robot Grasping through Few-Shot Learning
+Learning Pre-Grasp Manipulation of Flat Objects in Cluttered Environments Using Sliding Primitives
+Learning Category-Level Manipulation Tasks from Point Clouds with Dynamic Graph CNNs
+Neural Grasp Distance Fields for Robot Manipulation
+Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers
+Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation
+Practical Visual Deep Imitation Learning Via Task-Level Domain Consistency
+SEIL: Simulation-Augmented Equivariant Imitation Learning
+Dextrous Tactile In-Hand Manipulation Using a Modular Reinforcement Learning Architecture
+Learning Tool Morphology for Contact-Rich Manipulation Tasks with Differentiable Simulation
+CabiNet: Scaling Neural Collision Detection for Object Rearrangement with Procedural Scene Generation
+NIFT: Neural Interaction Field and Template for Object Manipulation
+Place Recognition under Occlusion and Changing Appearance Via Disentangled Representations
+GIDP: Learning a Good Initialization and Inducing Descriptor Post-Enhancing for Large-Scale Place Recognition
+STD: Stable Triangle Descriptor for 3D Place Recognition
+DeepRING: Learning Roto-Translation Invariant Representation for LiDAR Based Place Recognition
+Sensor Localization by Few Distance Measurements Via the Intersection of Implicit Manifolds
+Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique
+Loosely-Coupled Localization Fusion System Based on Track-To-Track Fusion with Bias Alignment
+Portable Multi-Hypothesis Monte Carlo Localization for Mobile Robots
+CPnP: Consistent Pose Estimator for Perspective-N-Point Problem with Bias Elimination
+LiDAR-Based Indoor Localization with Optimal Particle Filters Using Surface Normal Constraints
+Efficient Planar Pose Estimation Via UWB Measurements
+Visual Pitch and Roll Estimation for Inland Water Vessels
+GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation
+Direct Angular Rate Estimation without Event Motion-Compensation at High Angular Rates
+StereoVAE: A Lightweight Stereo-Matching System Using Embedded GPUs
+Learning Perception-Aware Agile Flight in Cluttered Environments
+NanoFlowNet: Real-Time Dense Optical Flow on a Nano Quadcopter
+Zero-Shot Active Visual Search (ZAVIS): Intelligent Object Search for Robotic Assistants
+Memory-Based Exploration-Value Evaluation Model for Visual Navigation
+ViNL: Visual Navigation and Locomotion Over Obstacles
+Zero-Shot Object Goal Visual Navigation
+Monocular Simultaneous Localization and Mapping Using Ground Textures
+"WAVN: Wide Area Visual Navigation for Large-Scale, GPS-Denied Environments"
+ORORA: Outlier-Robust Radar Odometry
+AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion
+Robust Map Fusion with Visual Attention Utilizing Multi-Agent Rendezvous
+Wi-Closure: Reliable and Efficient Search of Inter-Robot Loop Closures Using Wireless Sensing
+COVINS-G: A Generic Back-End for Collaborative Visual-Inertial SLAM
+PIEKF-VIWO: Visual-Inertial-Wheel Odometry Using Partial Invariant Extended Kalman Filter
+Observability-Aware Active Extrinsic Calibration of Multiple Sensors
+Learning Continuous Control Policies for Information-Theoretic Active Perception
+"Structure PLP-SLAM: Efficient Sparse Mapping and Localization Using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras"
+Rotation Synchronization Via Deep Matrix Factorization
+Object-Based SLAM Utilizing Unambiguous Pose Parameters Considering General Symmetry Types
+Towards View-Invariant and Accurate Loop Detection Based on Scene Graph
+ViViD++: Vision for Visibility Dataset
+CamMap: Extrinsic Calibration of Non-Overlapping Cameras Based on SLAM Map Alignment
+Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems
+WOLF: A Modular Estimation Framework for Robotics Based on Factor Graphs
+"Point Cloud Change Detection with Stereo V-SLAM: Dataset, Metrics and Baseline"
+Hilti-Oxford Dataset: A Millimeter-Accurate Benchmark for Simultaneous Localization and Mapping
+Long-Term Visual SLAM with Bayesian Persistence Filter Based Global Map Prediction
+Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-Mounted IMU
+Maplab 2.0 - a Modular and Multi-Modal Mapping Framework
+Simulation Data Driven Design Optimization for Reconfigurable Soft Gripper System
+Research on Design and Experiment of a Wearable Hand Rehabilitation Device Driven by Fiber-Reinforced Soft Actuator
+DNN-Based Predictive Model for a Batoid-Inspired Soft Robot
+Modeling the Locomotion of Articulated Soft Robots in Granular Medium
+SoRoSim: A MATLAB Toolbox for Hybrid Rigid-Soft Robots Based on the Geometric Variable-Strain Approach
+A Geometrically-Exact Assumed Strain Modes Approach for the Geometrico and Kinemato-Static Modellings of Continuum Parallel Robots
+Towards a Physics-Based Model for Steerable Eversion Growing Robots
+P-satI-D Shape Regulation of Soft Robots
+Statics and Dynamics of Continuum Robots Based on Cosserat Rods and Optimal Control Theories
+Robotic Fiber Threading from a Gel-Like Substance Based on Impedance Control with Force Tracking
+Overload Clutch with Integrated Torque Sensing and Decoupling Detection for Collision Tolerant Hybrid High-Speed Industrial Cobots
+A Micro Aircraft with Passive Variable-Sweep Wings
+Design and Voluntary Control of Variable Stiffness Exoskeleton Based on sEMG Driven Model
+A Robotic Torso Joint with Adjustable Linear Spring Mechanism for Natural Dynamic Motions in a Differential-Elastic Arrangement
+Requirements on the Spatial Distribution of Elastic Components Used in Compliance Realization
+A Novel Metamorphic Foot Mechanism with Toe Joints Based on Spring-Loaded Linkages
+Haptic-Based and SE(3)-Aware Object Insertion Using Compliant Hands
+Dynamic Modeling and Performance Analysis for a Wire-Driven Elastic Robotic Fish
+A 2-Degree-Of-Freedom Quasi-Passive Prosthetic Wrist with Two Levels of Compliance
+DiffCo: Auto-Differentiable Proxy Collision Detection with Multi-Class Labels for Safety-Aware Trajectory Optimization
+Risk-Aware Submodular Optimization for Multi-Robot Coordination
+Risk-Aware Fast Trajectory Planner for Uncertain Environments Based on Probabilistic Surrogate Reliability and Risk Contours
+Collision Avoidance among Dense Heterogeneous Agents Using Deep Reinforcement Learning
+Maximum-Entropy Multi-Agent Dynamic Games: Forward and Inverse Solutions
+Distributing Collaborative Multi-Robot Planning with Gaussian Belief Propagation
+Interactive Multi-Modal Motion Planning with Branch Model Predictive Control
+A Sequential MPC Approach to Reactive Planning for Bipedal Robots Using Safe Corridors in Highly Cluttered Environments
+Towards a Continuous Solution of the D-Visibility Watchman Route Problem in a Polygon with Holes
+Learning Deep Neural Network Controller for Path Following of Unicycle Robots
+ViewBirdiformer: Learning to Recover Ground-Plane Crowd Trajectories and Ego-Motion from a Single Ego-Centric View
+Closing the Planning-Learning Loop with Application to Autonomous Driving
+Learning from Demonstrations Via Multi-Level and Multi-Attention Domain-Adaptive Meta-Learning
+Learning Stable Vector Fields on Lie Groups
+Learning to Play Table Tennis from Scratch Using Muscular Robots
+Particle Filters in Latent Space for Robust Deformable Linear Object Tracking
+Multi-Scale Interaction for Real-Time LiDAR Data Segmentation on an Embedded Platform
+Stable Neural Adaptive Filters for Teleoperations with Uncertain Delays
+Compliant Microgripper Using Soft Polymer Actuator
+Development of Hydraulically-Driven Soft Hand for Handling Heavy Vegetables and Its Experimental Evaluation
+Two-Stage Grasping: A New Bin Picking Framework for Small Objects
+Electroadhesive Auxetics As Programmable Layer Jamming Skins for Formable Crust Shape Displays
+Navigating Soft Robots through Wireless Heating
+Fast Untethered Soft Robotic Crawler with Elastic Instability
+An Underwater Jet-Propulsion Soft Robot with High Flexibility Driven by Water Hydraulics
+Force/Torque Sensing for Soft Grippers Using an External Camera
+Data-Driven Spectral Submanifold Reduction for Nonlinear Optimal Control of High-Dimensional Robots
+Control of Shape Memory Alloy Actuator Via Electrostatic Capacitive Sensor for Meso-Scale Mirror Tilting System
+Data-Efficient Non-Parametric Modelling and Control of an Extensible Soft Manipulator
+Analytical Approach to Inverse Kinematics of Single Section Mobile Continuum Manipulators
+A Fast Geometric Framework for Dynamic Cosserat Rods with Discrete Actuated Joints
+Data-Driven Estimation of Forces Along the Backbone of Concentric Tube Continuum Robots
+Bootstrapping the Dynamic Gait Controller of the Soft Robot Arm
+Model Based Position Control of Soft Hydraulic Actuators
+Multiple Surgical Instruments Tracking-By-Prediction with Graph Hierarchy
+Fully Robotized 3D Ultrasound Image Acquisition for Artery
+Depth Estimation for Oral Cavity by Shape from Shading with Endoscope
+Dynamic Interactive Relation Capturing Via Scene Graph Learning for Robotic Surgical Report Generation
+Reslicing Ultrasound Images for Data Augmentation and Vessel Reconstruction
+Expert-Agnostic Ultrasound Image Quality Assessment Using Deep Variational Clustering
+A Curvature and Trajectory Optimization-Based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation
+Graph-Based Pose Estimation of Texture-Less Surgical Tools for Autonomous Robot Control
+Adaptive Sampling-Based Particle Filter for Visual-Inertial Gimbal in the Wild
+DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-Inertial Odometry
+ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions
+Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?
+MVFusion: Multi-View 3D Object Detection with Semantic-Aligned Radar and Camera Fusion
+BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
+Fusing Event-Based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning
+AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities
+Are All Point Clouds Suitable for Completion? Weakly Supervised Quality Evaluation Network for Point Cloud Completion
+From Semi-Supervised to Omni-Supervised Room Layout Estimation Using Point Clouds
+Few-Shot Point Cloud Semantic Segmentation Via Contrastive Self-Supervision and Multi-Resolution Attention
+Scene-Level Point Cloud Colorization with Semantics-And-Geometry-Aware Networks
+Deep Interactive Full Transformer Framework for Point Cloud Registration
+Coarse-To-Fine Point Cloud Registration with SE(3)-Equivariant Representations
+LiDAR-SGM: Semi-Global Matching on LiDAR Point Clouds and Their Cost-Based Fusion into Stereo Matching
+Segregator: Global Point Cloud Registration with Semantic and Geometric Cues
+StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images Via Back-View NOCS
+Non-Minimal Solvers for Relative Pose Estimation with a Known Relative Rotation Angle
+Generalizable Pose Estimation Using Implicit Scene Representations
+RFFCE: Residual Feature Fusion and Confidence Evaluation Network for 6DoF Pose Estimation
+Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-Hand Objects
+Interactive Object Segmentation in 3D Point Clouds
+GSNet: Model Reconstruction Network for Category-Level 6D Object Pose and Size Estimation
+6D Pose Estimation for Textureless Objects on RGB Frames Using Multi-View Optimization
+Learning Stabilization Control from Observations by Learning Lyapunov-Like Proxy Models
+Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models
+BITS: Bi-Level Imitation for Traffic Simulation
+Off-Policy Imitation Learning from Visual Inputs
+Versatile Skill Control Via Self-Supervised Adversarial Imitation of Unlabeled Mixed Motions
+Curriculum-Based Imitation of Versatile Skills
+Learning Stable Dynamics Via Iterative Quadratic Programming
+Holistic Graph-Based Motion Prediction
+Extraneousness-Aware Imitation Learning
+Wayformer: Motion Forecasting Via Simple & Efficient Attention Networks
+A Non-Parametric Skill Representation with Soft Null Space Projectors for Fast Generalization
+Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries
+Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion
+Causal Inference for De-Biasing Motion Estimation from Robotic Observational Data
+Active Predictive Coding: Brain-Inspired Reinforcement Learning for Sparse Reward Robotic Control Problems
+Approximating Discontinuous Nash Equilibrial Values of Two-Player General-Sum Differential Games
+Visual Affordance Prediction for Guiding Robot Exploration
+Generating Stable and Collision-Free Policies through Lyapunov Function Learning
+ALAN: Autonomously Exploring Robotic Agents in the Real World
+Throwing Objects into a Moving Basket While Avoiding Obstacles
+AIMY: An Open-Source Table Tennis Ball Launcher for Versatile and High-Fidelity Trajectory Generation
+Data-Efficient Characterization of the Global Dynamics of Robot Controllers with Confidence Guarantees
+Modeling and Inertial Parameter Estimation of Cart-Like Nonholonomic Systems Using a Mobile Manipulator
+Using Registration with Fourier-SOFT in 2D (FS2D) for Robust Scan Matching of Sonar Range Data
+A Robotic Cooperative Network for Localising a Submarine in Distress: Results from REPMUS21
+DeepSeeColor: Realtime Adaptive Color Correction for Autonomous Underwater Vehicles Via Deep Learning Methods
+From Concept to Field Tests: Accelerated Development of Multi-AUV Missions Using a High-Fidelity Faster-Than-Real-Time Simulator
+Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
+UDepth: Fast Monocular Depth Estimation for Visually-Guided Underwater Robots
+Improved Benthic Classification Using Resolution Scaling and SymmNet Unsupervised Domain Adaptation
+Data-Driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM
+ResiPlan: Closing the Planning-Acting Loop for Safe Underwater Navigation
+Diver Interest Via Pointing: Human-Directed Object Inspection for AUVs
+Robust Uncertainty Estimation for Classification of Maritime Objects
+Adaptive Heading for Perception-Aware Trajectory Following
+An Optimal Open-Loop Strategy for Handling a Flexible Beam with a Robot Manipulator
+Constraint Manifolds for Robotic Inference and Planning
+Model Predictive Optimized Path Integral Strategies
+Real-Time Solutions to Multimodal Partially Observable Dynamic Games
+Autonomous Drone Racing: Time-Optimal Spatial Iterative Learning Control within a Virtual Tube
+Curvature-Aware Model Predictive Contouring Control
+A Sequential Quadratic Programming Approach to the Solution of Open-Loop Generalized Nash Equilibria
+RPGD: A Small-Batch Parallel Gradient Descent Optimizer with Explorative Resampling for Nonlinear Model Predictive Control
+Distributionally Robust Optimization with Unscented Transform for Learning-Based Motion Control in Dynamic Environments
+Event-Triggered Optimal Formation Tracking Control Using Reinforcement Learning for Large-Scale UAV Systems
+Differentiable Collision Detection: A Randomized Smoothing Approach
+Start State Selection for Control Policy Learning from Optimal Trajectories
+Swarm-LIO: Decentralized Swarm LiDAR-Inertial Odometry
+HALO: Hazard-Aware Landing Optimization for Autonomous Systems
+Onboard Controller Design for Nano UAV Swarm in Operator-Guided Collective Behaviors
+EFTrack: A Lightweight Siamese Network for Aerial Object Tracking
+Active Metric-Semantic Mapping by Multiple Aerial Robots
+Multi-Target Pursuit by a Decentralized Heterogeneous UAV Swarm Using Deep Multi-Agent Reinforcement Learning
+A Moving Target Tracking System of Quadrotors with Visual-Inertial Localization
+BogieCopter: A Multi-Modal Aerial-Ground Vehicle for Long-Endurance Inspection Applications
+Towards Autonomous UAV Railway DC Line Recharging: Design and Simulation
+Fast Region of Interest Proposals on Maritime UAVs
+TRADE: Object Tracking with 3D Trajectory and Ground Depth Estimates for UAVs
+Adaptive Keyframe Generation Based LiDAR Inertial Odometry for Complex Underground Environments
+Finding Things in the Unknown: Semantic Object-Centric Exploration with an MAV
+Stealthy Perception-Based Attacks on Unmanned Aerial Vehicles
+SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking
+Semantics-Aware Exploration and Inspection Path Planning
+Inverted Landing in a Small Aerial Robot Via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers
+Heading Control of a Long-Endurance Insect-Scale Aerial Robot Powered by Soft Artificial Muscles
+"Robust, High-Rate Trajectory Tracking on Insect-Scale Soft-Actuated Aerial Robots with Deep-Learned Tube MPC"
+A New Sensation: Digital Strain Sensing for Disturbance Detection in Flapping Wing Micro Aerial Vehicles
+A Lightweight High-Voltage Boost Circuit for Soft-Actuated Micro-Aerial-Robots
+Hummingbird-Bat Hybrid Wing by 3-D Printing
+Ultra-Low Power Deep Learning-Based Monocular Relative Localization Onboard Nano-Quadrotors
+A Hybrid Quadratic Programming Framework for Real-Time Embedded Safety-Critical Control
+D2CoPlan: A Differentiable Decentralized Planner for Multi-Robot Coverage
+Accelerating Multi-Agent Planning Using Graph Transformers with Bounded Suboptimality
+Environment Optimization for Multi-Agent Navigation
+Heterogeneous Coverage and Multi-Resource Allocation in Supply-Constrained Teams
+Sequential Stochastic Multi-Task Assignment for Multi-Robot Deployment Planning
+Path Planning under Uncertainty to Localize mmWave Sources
+Communication-Critical Planning Via Multi-Agent Trajectory Exchange
+Distributed Potential iLQR: Scalable Game-Theoretic Trajectory Planning for Multi-Agent Interactions
+FRAME: Fast and Robust Autonomous 3D Point Cloud Map-Merging for Egocentric Multi-Robot Exploration
+Autonomous Task Planning for Heterogeneous Multi-Agent Systems
+Graph Neural Networks for Multi-Robot Active Information Acquisition
+Balancing Efficiency and Unpredictability in Multi-Robot Patrolling: A MARL-Based Approach
+Learning to Influence Vehicles' Routing in Mixed-Autonomy Networks by Dynamically Controlling the Headway of Autonomous Cars
+Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation
+Multiagent Reinforcement Learning for Autonomous Routing and Pickup Problem with Adaptation to Variable Demand
+Cooperative Driving in Mixed Traffic of Manned and Unmanned Vehicles Based on Human Driving Behavior Understanding
+Exploring Navigation Maps for Learning-Based Motion Prediction
+SLAMesh: Real-Time LiDAR Simultaneous Localization and Meshing
+CenterLineDet: CenterLine Graph Detection for Road Lanes with Vehicle-Mounted Sensors by Transformer for HD Map Generation
+Guided Conditional Diffusion for Controllable Traffic Simulation
+TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios
+Infrastructure-Based End-To-End Learning and Prevention of Driver Failure
+V2XP-ASG: Generating Adversarial Scenes for Vehicle-To-Everything Perception
+Satellite Image Based Cross-View Localization for Autonomous Vehicle
+Collision-Free Coverage Path Planning for the Variable-Speed Curvature-Constrained Robot
+Stochastic Traveling Salesperson Problem with Neighborhoods for Object Detection
+Optimal Allocation of Many Robot Guards for Sweep-Line Coverage
+A Linear and Exact Algorithm for Whole-Body Collision Evaluation Via Scale Optimization
+Probabilistic Risk Assessment for Chance-Constrained Collision Avoidance in Uncertain Dynamic Environments
+Computational Tradeoff in Minimum Obstacle Displacement Planning for Robot Navigation
+A Trajectory Planner for Mobile Robots Steering Non-Holonomic Wheelchairs in Dynamic Environments
+Safe Bipedal Path Planning Via Control Barrier Functions for Polynomial Shape Obstacles Estimated Using Logistic Regression
+Real-Time Decentralized Navigation of Nonholonomic Agents Using Shifted Yielding Areas
+Differentiable Collision Detection for a Set of Convex Primitives
+Shunted Collision Avoidance for Multi-UAV Motion Planning with Posture Constraints
+Dynamic Control Barrier Function-Based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot
+A Minimum Swept-Volume Metric Structure for Configuration Space
+Task-Space Clustering for Mobile Manipulator Task Sequencing
+Sampling-Based Path Planning under Temporal Logic Constraints with Real-Time Adaptation
+Optimal Grasps and Placements for Task and Motion Planning in Clutter
+Resolution Complete In-Place Object Retrieval Given Known Object Models
+Task-Directed Exploration in Continuous POMDPs for Robotic Manipulation of Articulated Objects
+Learning Feasibility of Factored Nonlinear Programs in Robotic Manipulation Planning
+Learning to Predict Action Feasibility for Task and Motion Planning in 3D Environments
+Policy Guided Lazy Search with Feedback for Task and Motion Planning
+A Reachability Tree-Based Algorithm for Robot Task and Motion Planning
+Dual Quaternion Based Dynamic Movement Primitives to Learn Industrial Tasks Using Teleoperation
+Multi-Contact Task and Motion Planning Guided by Video Demonstration
+MVTrans: Multi-View Perception of Transparent Objects
+The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects
+SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing
+Tactile Based Robotic Skills for Cable Routing Operations
+Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences
+GSMR-CNN: An End-To-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes
+3DSGrasp: 3D Shape-Completion for Robotic Grasp
+Goal-Conditioned Action Space Reduction for Deformable Object Manipulation
+MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes
+SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping
+Category-Level Shape Estimation for Densely Cluttered Objects
+Counter-Hypothetical Particle Filters for Single Object Pose Tracking
+Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses
+Efficient Bimanual Handover and Rearrangement Via Symmetry-Aware Actor-Critic Learning
+EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics
+Edge Grasp Network: A Graph-Based SE(3)-Invariant Approach to Grasp Detection
+Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps
+A Multi-Agent Approach for Adaptive Finger Cooperation in Learning-Based In-Hand Manipulation
+Bimanual Rope Manipulation Skill Synthesis through Context Dependent Correction Policy Learning from Human Demonstration
+Sim-And-Real Reinforcement Learning for Manipulation: A Consensus-Based Approach
+AutoBag: Learning to Open Plastic Bags and Insert Objects
+Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information
+Ditto in the House: Building Articulation Models of Indoor Scenes through Interactive Perception
+Zero-Shot Transfer of Haptics-Based Object Insertion Policies
+Moment-Based Kalman Filter: Nonlinear Kalman Filtering with Exact Moment Propagation
+Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition
+Towards Consistent Batch State Estimation Using a Time-Correlated Measurement Noise Model
+A Probabilistic Framework for Visual Localization in Ambiguous Scenes
+RoLM: Radar on LiDAR Map Localization
+Direct LiDAR-Inertial Odometry: Lightweight LIO with Continuous-Time Motion Correction
+Large-Scale Radar Localization Using Online Public Maps
+Continuous-Time LiDAR-Inertial-Vehicle Odometry Method with Lateral Acceleration Constraint
+Cross-Modal Monocular Localization in Prior LiDAR Maps Utilizing Semantic Consistency
+Multi-State Tightly-Coupled EKF-Based Radar-Inertial Odometry with Persistent Landmarks
+Loc-NeRF: Monte Carlo Localization Using Neural Radiance Fields
+RoSS: Rotation-Induced Aliasing for Audio Source Separation
+L-C*: Visual-Inertial Loose Coupling for Resilient and Lightweight Direct Visual Localization
+GRM: Gradient Rectification Module for Visual Place Retrieval
+DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments
+NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics
+Efficient View Path Planning for Autonomous Implicit Reconstruction
+"Lighthouses and Global Graph Stabilization: Active SLAM for Low-Compute, Narrow-FoV Robots"
+ExAug: Robot-Conditioned Navigation Policies Via Geometric Experience Augmentation
+Multi-Object Navigation in Real Environments Using Hybrid Policies
+AeriaLPiPS: A Local Planner for Aerial Vehicles with Geometric Collision Checking
+Frontier Semantic Exploration for Visual Target Navigation
+VINet: Visual and Inertial-Based Terrain Classification and Adaptive Navigation Over Unknown Terrain
+Ground Then Navigate: Language-Guided Navigation in Dynamic Scenes
+3-Dimensional Sonic Phase-Invariant Echo Localization
+Calibration and Uncertainty Characterization for Ultra-Wideband Two-Way-Ranging Measurements
+High Resolution Point Clouds from mmWave Radar
+Pyramid Learnable Tokens for 3D LiDAR Place Recognition
+A Decoupled and Linear Framework for Global Outlier Rejection Over Planar Pose Graph
+Robust Incremental Smoothing and Mapping (riSAM)
+Real-Time Simultaneous Localization and Mapping with LiDAR Intensity
+iMODE: Real-Time Incremental Monocular Dense Mapping Using Neural Field
+Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization
+Extrinsic Calibration for Highly Accurate Trajectories Reconstruction
+Cerberus: Low-Drift Visual-Inertial-Leg Odometry for Agile Locomotion
+"Ensembles of Compact, Region-Specific & Regularized Spiking Neural Networks for Scalable Place Recognition"
+Line As a Visual Sentence: Context-Aware Line Descriptor for Visual Localization
+Robust Visual Localization of a UAV Over a Pipe-Rack Based on the Lie Group SE(3)
+Finding the Right Place: Sensor Placement for UWB Time Difference of Arrival Localization in Cluttered Indoor Environments
+EgoNN: Egocentric Neural Network for Point Cloud Based 6DoF Relocalization at the City Scale
+"Stein Particle Filter for Nonlinear, Non-Gaussian State Estimation"
+Faster-LIO: Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels
+Homography-Based Loss Function for Camera Pose Regression
+Broadband Sound Source Localization Via Non-Synchronous Measurements for Service Robots: A Tensor Completion Approach
+Proprioceptive Soft Pneumatic Gripper for Extreme Environments Using Hybrid Optical Fibers
+Modeling and Characterizing Two Dielectric Elastomer Folding Actuators for Origami-Inspired Robot
+Deployable Soft Pneumatic Networks (D-PneuNets) Actuator with Dual-Morphing Origami Chambers for High Compactness
+Soft Fluidic Actuator for Locomotion in Multi-Phase Environments
+Contact Surface and Pose Recognition: Utilizing Multipole Magnetic Tactile Sensor with Meta Learning Model
+Force/Torque-Sensorless Joint Stiffness Estimation in Articulated Soft Robots
+Retractable Locking System Driven by Shape Memory Alloy Actuator for Lightweight Soft Robotic Application
+Elastic-Actuation Mechanism for Repetitive Hopping Based on Power Modulation and Cyclic Trajectory Generation
+Learning-Based Fabric Folding and Box Wrapping
+Few-Shot Instance Grasping of Novel Objects in Clutter
+TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and a Grasping Baseline
+Dual-Arm Control for Coordinated Fast Grabbing and Tossing of an Object
+RBO Hand 3 - a Platform for Soft Dexterous Manipulation
+A Multi-DoF Exoskeleton Haptic Device for the Grasping of a Compliant Object Adapting to a User's Motion Using Jamming Transitions
+Peg-In-Hole Assembly with Dual-Arm Robot and Dexterous Robot Hands
+Manipulation Planning Using Wave Variables
+Active Inference and Behavior Trees for Reactive Action Planning and Execution in Robotics
+Physically Consistent Preferential Bayesian Optimization for Food Arrangement
+Multi-Objective Trajectory Optimization to Improve Ergonomics in Human Motion
+Interactive Dynamic Walking: Learning Gait Switching Policies with Generalization Guarantees
+Deep Predictive Model Learning with Parametric Bias: Handling Modeling Difficulties and Temporal Model Changes
+Power-Based Velocity-Domain Variable Structure Passivity Signature Control for Physical Human-(Tele)Robot Interaction
+Human-Multirobot Collaborative Mobile Manipulation: The Omnid Mocobots
+TransDSSL: Transformer Based Depth Estimation Via Self-Supervised Learning
+Stereo Plane R-CNN: Accurate Scene Geometry Reconstruction Using Planar Segments and Camera-Agnostic Representation
+Object-Aware Monocular Depth Prediction with Instance Convolutions
+Uncertainty Guided Policy for Active Robotic 3D Reconstruction Using Neural Radiance Fields
+Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation
+Lidar Upsampling with Sliced Wasserstein Distance
+Accurate 3D Single Object Tracker with Local-To-Global Feature Refinement
+Aggregation Functions for Simultaneous Attitude and Image Estimation with Event Cameras at High Angular Rates
+RAST: Risk-Aware Spatio-Temporal Safety Corridors for MAV Navigation in Dynamic Uncertain Environments
+Energy Aware Impedance Control of a Flying End-Effector in the Port-Hamiltonian Framework
+Momentum-Based Extended Kalman Filter for Thrust Estimation on Flying Multibody Robots
+Overcoming Bias: Equivariant Filter Design for Biased Attitude Estimation with Online Calibration
+DIDER: Discovering Interpretable Dynamically Evolving Relations
+A Global Max-Flow-Based Multi-Resolution Next-Best-View Method for Reconstruction of 3D Unknown Objects
+A Stack-Of-Tasks Approach Combined with Behavior Trees: A New Framework for Robot Control
+Demonstration-Guided Reinforcement Learning with Efficient Exploration for Task Automation of Surgical Robot
+Dual-Robot Collaborative System for Autonomous Venous Access Based on Ultrasound and Bioimpedance Sensing Technology
+Vitreoretinal Surgical Robotic System with Autonomous Orbital Manipulation Using Vector-Field Inequalities
+Autonomous Needle Navigation in Retinal Microsurgery: Evaluation in Ex Vivo Porcine Eyes
+Dynamic Modeling and Identification of a Robotic Intracardiac Echo Catheter
+Modeling of a Robotic Transcatheter Delivery System
+A Handheld Hydraulic Cardiac Catheter with Omnidirectional Manipulator and Touch Sensing
+Optimized Design and Analysis of Active Propeller-Driven Capsule Endoscopic Robot for Gastric Examination
+QuadMag: A Mobile-Coil System with Enhanced Magnetic Actuation Efficiency and Dexterity
+Evaluating the Feasibility of Magnetic Tools for the Minimum Dynamic Requirements of Microneurosurgery
+A Novel Concentric Tube Steerable Drilling Robot for Minimally Invasive Treatment of Spinal Tumors Using Cavity and U-Shape Drilling Techniques
+Magnetic Ball Chain Robots for Endoluminal Interventions
+Robotic Navigation Autonomy for Subretinal Injection Via Intelligent Real-Time Virtual iOCT Volume Slicing
+3D Reconstruction of Tibia and Fibula Using One General Model and Two X-Ray Images
+"Semantic-SuPer: A Semantic-Aware Surgical Perception Framework for Endoscopic Tissue Classification, Reconstruction, and Tracking"
+Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-Driven Keypoint Detection
+CDFI: Cross Domain Feature Interaction for Robust Bronchi Lumen Detection
+Real-Time Constrained 6D Object-Pose Tracking of an In-Hand Suture Needle for Minimally Invasive Robotic Surgery
+Exploring Robot-Assisted Optical Coherence Elastography for Surgical Palpation
+Locate before Segment: Topology-Guided Retinal Layer Segmentation in Optical Coherence Tomography Images
+Visual Tracking of Needle Tip in 2D Ultrasound Based on Global Features in a Siamese Architecture
+Model-Based Pose Estimation of Steerable Catheters under Bi-Plane Image Feedback
+Pose Quality Prediction for Vision Guided Robotic Shoulder Arthroplasty
+Image Segmentation for Continuum Robots from a Kinematic Prior
+Robust Collaborative 3D Object Detection in Presence of Pose Errors
+Joint Semi-Supervised and Active Learning Via 3D Consistency for 3D Object Detection
+StereoVoxelNet: Real-Time Obstacle Detection Based on Occupancy Voxels from a Stereo Camera Using Deep Neural Networks
+Perceiving Unseen 3D Objects by Poking the Objects
+MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts
+CrossDTR: Cross-View and Depth-Guided Transformers for 3D Object Detection
+DOTIE - Detecting Objects through Temporal Isolation of Events Using a Spiking Architecture
+CEAFFOD: Cross-Ensemble Attention-Based Feature Fusion Architecture towards a Robust and Real-Time UAV-Based Object Detection in Complex Scenarios
+Test Time Domain Adaptation for Monocular Depth Estimation
+TODE-Trans: Transparent Object Depth Estimation with Transformer
+Learning Depth Completion of Transparent Objects Using Augmented Unpaired Data
+Lightweight Monocular Depth Estimation Via Token-Sharing Transformer
+Improved Event-Based Dense Depth Estimation Via Optical Flow Compensation
+TTCDist: Fast Distance Estimation from an Active Monocular Camera Using Time-To-Contact
+STEPS: Joint Self-Supervised Nighttime Image Enhancement and Depth Estimation
+FG-Depth: Flow-Guided Unsupervised Monocular Depth Estimation
+Light-Weight Pointcloud Representation with Sparse Gaussian Process
+Test-Time Synthetic-To-Real Adaptive Depth Estimation
+Unseen Object Instance Segmentation with Fully Test-Time RGB-D Embeddings Adaptation
+Robust Double-Encoder Network for RGB-D Panoptic Segmentation
+Explain What You See: Open-Ended Segmentation and Recognition of Occluded 3D Objects
+GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration
+Toward Cooperative 3D Object Reconstruction with Multi-Agent
+SwinDepth: Unsupervised Depth Estimation Using Monocular Sequences Via Swin Transformer and Densely Cascaded Network
+GAN-Based Interactive Reinforcement Learning from Demonstration and Human Evaluative Feedback
+Demonstration-Guided Optimal Control for Long-Term Non-Prehensile Planar Manipulation
+Learning Reward Functions for Robotic Manipulation by Observing Humans
+Data-Driven Stochastic Motion Evaluation and Optimization with Image by Spatially-Aligned Temporal Encoding
+Demonstration-Bootstrapped Autonomous Practicing Via Multi-Task Reinforcement Learning
+Minimizing Human Assistance: Augmenting a Single Demonstration for Deep Reinforcement Learning
+Learning Robotic Cutting from Demonstration: Non-Holonomic DMPs Using the Udwadia-Kalaba Method
+KRIS: A Novel Device for Kinesthetic Corrective Feedback During Robot Motion
+Guided Learning from Demonstration for Robust Transferability
+One-Shot Visual Imitation Via Attributed Waypoints and Demonstration Augmentation
+Show Me What You Want: Inverse Reinforcement Learning to Automatically Design Robot Swarms by Demonstration
+Immersive Demonstrations Are the Key to Imitation Learning
+DreamWaQ: Learning Robust Quadrupedal Locomotion with Implicit Terrain Imagination Via Deep Reinforcement Learning
+Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
+OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors
+Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments
+Legs As Manipulator: Pushing Quadrupedal Agility Beyond Locomotion
+Force Control for Robust Quadruped Locomotion: A Linear Policy Approach
+Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning
+Deep Reinforcement Learning Based Personalized Locomotion Planning for Lower-Limb Exoskeletons
+Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation
+Sim-To-Real Transfer for Quadrupedal Locomotion Via Terrain Transformer
+Agile and Versatile Robot Locomotion Via Kernel-Based Residual Learning
+DribbleBot: Dynamic Legged Manipulation in the Wild
+Knowledge Distillation for Feature Extraction in Underwater VSLAM
+OysterNet: Enhanced Oyster Detection Using Simulation
+SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images
+Real-Time Dense 3D Mapping of Underwater Environments
+SM/VIO: Robust Underwater State Estimation Switching between Model-Based and Visual Inertial Odometry
+Image-Based Visual Servoing Switchable Leader-Follower Control of Heterogeneous Multi-Agent Underwater Robot System
+Buoyancy Enabled Autonomous Underwater Construction with Cement Blocks
+Mapping Waves with an Uncrewed Surface Vessel Via Gaussian Process Regression
+Enforcing Constraints for Dynamic Obstacle Avoidance by Compliant Robots
+Increasing Admittance of Industrial Robots by Velocity Feedback Inner-Loop Shaping
+Bounded Compensation with Friction Estimation for Accurate Motion Tracking and Compliant Behavior of Industrial Manipulators
+A Passivity-Based Approach on Relocating High-Frequency Robot Controller to the Edge Cloud
+A Framework for Simultaneous Workpiece Registration in Robotic Machining Applications
+Contact Force Control with Continuously Compliant Robotic Legs
+Generalization of Impact Response Factors for Proprioceptive Collaborative Robots
+Robotic Fastening with a Manual Screwdriver
+Model and Acceleration-Based Pursuit Controller for High Performance Autonomous Racing
+Extremum Seeking-Based Adaptive Sliding Mode Control with Sliding Perturbation Observer for Robot Manipulators
+Experimental Validation of Functional Iterative Learning Control on a One-Link Flexible Arm
+Robust Output Feedback Controller for a Serial Robotic Manipulator with Unknown Nonlinearities and External Disturbances
+Collaborative Control Based on Payload Leading for Multi-Quadrotors Transportation Systems
+Torque Control with Joints Position and Velocity Limits Avoidance
+Low-Level Controller in Response to Changes in Quadrotor Dynamics
+Biodegradable Origami Gripper Actuated with Gelatin Hydrogel for Aerial Sensor Attachment to Tree Branches
+PARSEC: An Aerial Platform for Autonomous Deployment of Self-Anchoring Payloads on Natural Vertical Surfaces
+Autonomous Control for Orographic Soaring of Fixed-Wing UAVs
+Stable Contact Guaranteeing Motion/Force Control for an Aerial Manipulator on an Arbitrarily Tilted Surface
+Design and Control of a Micro Overactuated Aerial Robot with an Origami Delta Manipulator
+Simplifying Aerial Manipulation Using Intentional Collisions
+Hierarchical Whole-Body Control of the Cable-Suspended Aerial Manipulator Endowed with Winch-Based Actuation
+Heading for the Abyss: Control Strategies for Exploiting Swinging of a Descending Tethered Aerial Robot
+Vector Field Aided Trajectory Tracking by a 10-Gram Flapping-Wing Micro Aerial Vehicle
+Globally Defined Dynamic Modelling and Geometric Tracking Controller Design for Aerial Manipulator
+FlowDrone: Wind Estimation and Gust Rejection on UAVs Using Fast-Response Hot-Wire Flow Sensors
+AutoCharge: Autonomous Charging for Perpetual Quadrotor Missions
+DQN-Based On-Line Path Planning Method for Automatic Navigation of Miniature Robots
+Rendezvous and Docking of Magnetic Helical Microrobots Along Arc Orbits for Field-Directed Assembly and Disassembly
+MRI-Powered Magnetic Miniature Capsule Robot with HIFU-Controlled On-Demand Drug Delivery
+Structural Design and Frequency Tuning of Piezoelectric Energy Harvesters Based on Topology Optimization
+Input-Output Boundedness of a Magnetically-Actuated Helical Device
+Atomic-Level Tracking and Analyzing of Quantum-Dot Motion Steered by an Electrostatic Field Positioned by a Nanorobotic Manipulation Tip
+3D-Printed Adaptive Microgripper Driven by Thin-Film NiTi Actuators
+Automatic Cell Rotation Method Based on Deep Reinforcement Learning
+Noncontact Particle Manipulation on Water Surface with Ultrasonic Phased Array System and Microscopic Vision
+Real-Time Acoustic Holography with Iterative Unsupervised Learning for Acoustic Robotic Manipulation
+ROSMC: A High-Level Mission Operation Framework for Heterogeneous Robotic Teams
+Non-Cooperative Stochastic Target Encirclement by Anti-Synchronization Control Via Range-Only Measurement
+Estimation of Continuous Environments by Robot Swarms: Correlated Networks and Decision-Making
+FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2
+Stackelberg Games for Learning Emergent Behaviors During Competitive Autocurricula
+On Legible and Predictable Robot Navigation in Multi-Agent Environments
+Explainable Action Advising for Multi-Agent Reinforcement Learning
+A Complete Set of Connectivity-Aware Local Topology Manipulation Operations for Robot Swarms
+Decentralized Multi-Agent Exploration with Limited Inter-Agent Communications
+A Distributed Online Optimization Strategy for Cooperative Robotic Surveillance
+Risk-Aware Recharging Rendezvous for a Collaborative Team of UAVs and UGVs
+Cross-Agent Relocalization for Decentralized Collaborative SLAM
+Planning with Occluded Traffic Agents Using Bi-Level Variational Occlusion Models
+Robust Forecasting for Robotic Control: A Game-Theoretic Approach
+Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios
+Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library
+Uncertainty Quantification of Collaborative Detection for Self-Driving
+WS-3D-Lane: Weakly Supervised 3D Lane Detection with 2D Lane Labels
+One Training for Multiple Deployments: Polar-Based Adaptive BEV Perception for Autonomous Driving
+Deep Occupancy-Predictive Representations for Autonomous Driving
+PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer
+Reinforcement Learning with Probabilistically Safe Control Barrier Functions for Ramp Merging
+Self-Improving Safety Performance of Reinforcement Learning Based Driving with Black-Box Verification Algorithms
+Multi-Source Domain Adaptation for Unsupervised Road Defect Segmentation
+A Contextual Bandit Approach for Learning to Plan in Environments with Probabilistic Goal Configurations
+Safe and Efficient Navigation in Extreme Environments Using Semantic Belief Graphs
+Risk-Aware Neural Navigation from BEV Input for Interactive Driving
+Informable Multi-Objective and Multi-Directional RRT* System for Robot Path Planning
+Leveraging Scene Embeddings for Gradient-Based Motion Planning in Latent Space
+Sample-Driven Connectivity Learning for Motion Planning
+Online Coverage Path Planning Scheme for a Size-Variable Robot
+Navigation with Polytopes and B-Spline Path Planner
+Probabilistic Planning with Partially Ordered Preferences Over Temporal Goals
+A Causal Decoupling Approach to Efficient Planning for Logistics Problems with Stateful Stochastic Demand
+Stochastic Robustness Interval for Motion Planning with Signal Temporal Logic
+Planning with SiMBA: Motion Planning under Uncertainty for Temporal Goals Using Simplified Belief Guides
+RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation
+"Prioritized Robotic Exploration with Deadlines: A Comparison of Greedy, Orienteering, and Profitable Tour Approaches"
+Epistemic Prediction and Planning with Implicit Coordination for Multi-Robot Teams in Communication Restricted Environments
+Uncertainty-Guided Active Reinforcement Learning with Bayesian Neural Networks
+Perturbation-Based Best Arm Identification for Efficient Task Planning with Monte-Carlo Tree Search
+Contingency-Aware Task Assignment and Scheduling for Human-Robot Teams
+Extracting Generalizable Skills from a Single Plan Execution Using Abstraction-Critical State Detection
+Efficient Planning of Multi-Robot Collective Transport Using Graph Reinforcement Learning with Higher Order Topological Abstraction
+On the Utility of Buffers in Pick-N-Swap Based Lattice Rearrangement
+On-Demand Multi-Agent Basket Picking for Shopping Stores
+Multi-Robot Coordination and Cooperation with Task Precedence Relationships
+On the Programming Effort Required to Generate Behavior Trees and Finite State Machines for Robotic Applications
+Train What You Know - Precise Pick-And-Place with Transporter Networks
+Asking for Help: Failure Prediction in Behavioral Cloning through Value Approximation
+Seq2Seq Imitation Learning for Tactile Feedback-Based Manipulation
+SGTM 2.0: Autonomously Untangling Long Cables Using Interactive Perception
+Online Tool Selection with Learned Grasp Prediction Models
+FOGL: Federated Object Grasping Learning
+Goal-Image Conditioned Dynamic Cable Manipulation through Bayesian Inference and Multi-Objective Black-Box Optimization
+Learning Generalizable Pivoting Skills
+Cloth Funnels: Canonicalized-Alignment for Multi-Purpose Garment Manipulation
+RLAfford: End-To-End Affordance Learning for Robotic Manipulation
+Implementation and Optimization of Grasping Learning with Dual-Modal Soft Gripper
+DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets
+Option-Aware Adversarial Inverse Reinforcement Learning for Robotic Control
+Efficiently Learning Small Policies for Locomotion and Manipulation
+Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects
+SE(3)-DiffusionFields: Learning Smooth Cost Functions for Joint Grasp and Motion Optimization through Diffusion
+Focused Adaptation of Dynamics Models for Deformable Object Manipulation
+Dexterous Manipulation from Images: Autonomous Real-World RL Via Substep Guidance
+Predicting Motion Plans for Articulating Everyday Objects
+Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation
+Holo-Dex: Teaching Dexterity with Immersive Mixed Reality
+Online Augmentation of Learned Grasp Sequence Policies for More Adaptable and Data-Efficient In-Hand Manipulation
+DeXtreme: Transfer of Agile In-Hand Manipulation from Simulation to Reality
+Meta-Reinforcement Learning Via Language Instructions
+Improving Video Super-Resolution with Long-Term Self-Exemplars
+Learning-Based Relational Object Matching across Views
+TransVisDrone: Spatio-Temporal Transformer for Vision-Based Drone-To-Drone Detection in Aerial Videos
+Unsupervised RGB-To-Thermal Domain Adaptation Via Multi-Domain Attention Network
+Adaptive-SpikeNet: Event-Based Optical Flow Estimation Using Spiking Neural Networks with Learnable Neuronal Dynamics
+Reinforced Learning for Label-Efficient 3D Face Reconstruction
+Bridging the Domain Gap for Multi-Agent Perception
+UPLIFT: Unsupervised Person Labeling and Identification Via Cooperative Learning with Mobile Robots
+Learning to Explore Informative Trajectories and Samples for Embodied Perception
+Embodied Agents for Efficient Exploration and Smart Scene Description
+Deep Neural Network Architecture Search for Accurate Visual Pose Estimation Aboard Nano-UAVs
+Reuse Your Features: Unifying Retrieval and Feature-Metric Alignment
+FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions from Single Panoramas
+CAHIR: Co-Attentive Hierarchical Image Representations for Visual Place Recognition
+Monocular Visual-Inertial Depth Estimation
+KGNet: Knowledge-Guided Networks for Category-Level 6D Object Pose and Size Estimation
+Online Consistent Video Depth with Gaussian Mixture Representation
+Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception
+Operative Action Captioning for Estimating System Actions
+Deep Unsupervised Visual Odometry Via Bundle Adjusted Pose Graph Optimization
+Pose Relation Transformer : Refine Occlusions for Human Pose Estimation
+Question Generation for Uncertainty Elimination of Referring Expression in 3D Environment
+A New Efficient Eye Gaze Tracker for Robotic Applications
+A Deep Learning Human Activity Recognition Framework for Socially Assistive Robots to Support Reablement of Older Adults
+FloorplanNet: Learning Topometric Floorplan Matching for Robot Localization
+MOFT: Monocular Odometry Based on Deep Depth and Careful Feature Selection and Tracking
+LGCNet: Feature Enhancement and Consistency Learning Based on Local and Global Coherence Network for Correspondence Selection
+Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors
+Online Visual SLAM Adaptation against Catastrophic Forgetting with Cycle-Consistent Contrastive Learning
+SLAMER: Simultaneous Localization and Map-Assisted Environment Recognition
+Descriptor Distillation for Efficient Multi-Robot SLAM
+DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory
+Monocular Visual-Inertial Odometry with Planar Regularities
+BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms
+Improving the Performance of Local Bundle Adjustment for Visual-Inertial SLAM with Efficient Use of GPU Resources
+Distributed Initialization for Visual-Inertial-Ranging Odometry with Position-Unknown UWB Network
+Biomimetic Electric Sense Based Localization: A Solution for Small Underwater Robots in Large-Scale Environment
+How Many Events Do You Need? Event-Based Visual Place Recognition Using Sparse but Varying Pixels
+Mitigating Shadows in LIDAR Scan Matching Using Spherical Voxels
+UWB-VIO Fusion for Accurate and Robust Relative Localization of Ground Robotic Teams
+Robust Self-Tuning Data Association for Geo-Referencing Using Lane Markings
+Fast and Versatile Feature-Based LiDAR Odometry Via Efficient Local Quadratic Surface Approximation
+KPPR: Exploiting Momentum Contrast for Point Cloud-Based Place Recognition
+Handling Constrained Optimization in Factor Graphs for Autonomous Navigation
+Long-Term Localization Using Semantic Cues in Floor Plan Maps
+COBRA: From Industrial to Medical Surgery with Slender Continuum Robots
+Assistive Robotic Technologies for Next-Generation Smart Wheelchairs
+A-SEE: Active-Sensing End-Effector Enabled Probe Self-Normal-Positioning for Robotic Ultrasound Imaging Applications
+Hybrid Half-Gaussian Selectively Adaptive Fuzzy Control of an Actuated Ankle Foot-Orthosis
+Collaborative Magnetic Manipulation Via Two Robotically-Actuated Permanent Magnets
+Neuromechanical Model-Based Adaptive Control of Bi-Lateral Ankle Exoskeletons: Biological Joint Torque and Electromyogram Reduction across Walking Conditions
+A Markov Chain Model for Workflow Analysis in Operating Rooms
+On the Workspace of Electromagnetic Navigation Systems
+UVtac: Switchable UV Marker-Based Tactile Sensing Finger for Effective Force Estimation and Object Localization
+Sparse-Dense Motion Modelling and Tracking for Manipulation without Prior Object Models
+Enhanced GPIS Learning Based on Local and Global Focus Areas
+Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation
+Interaction Control of a Robotic Manipulator with the Surface of Deformable Object
+DiffSRL: Learning Dynamical State Representation for Deformable Object Manipulation with Differentiable Simulation
+SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection from Single-View RGB-D Images
+Hardware-Accelerated Mars Sample Localization Via Deep Transfer Learning from Photorealistic Simulations
+How AI and Robotics Can Build Furniture: A Case Study from the 2021 AI-Robot Assembly Challenge
+A Robotic End-Effector for Screwing and Unscrewing Bolts from the Side
+Adaptive Cooperative Control for Human-Robot Load Manipulation
+An Energy Based Control Architecture for Shared Autonomy
+Computational Model of Robot Trust in Human Co-Worker for Physical Human-Robot Collaboration
+Robust Multi-User In-Hand Object Recognition in Human-Robot Collaboration Using a Wearable Force-Myography Device
+CARE: Cooperation of AI-Robot Enablers to Create a Vibrant Society
+Safety and Efficiency in Robotics: The Control Barrier Functions Approach
+Encouraging Human Interaction with Robot Teams: Legible and Fair Subtask Allocations
+Autonomous Wristband Placement in a Moving Hand for Victims in SAR Scenarios with a Mobile Manipulator
+Recommending Fine-Grained Tool Consistent with Common Sense Knowledge for Robot
+Real-Time Hetero-Stereo Matching for Event and Frame Camera with Aligned Events Using Maximum Shift Distance
+Toward Holistic Scene Understanding: A Transfer of Human Scene Perception to Mobile Robots
+Object Detection Using Sim2Real Domain Randomization for Robotic Applications
+Continual Adaptation of Semantic Segmentation Using Complementary 2D-3D Data Representations
+ROFT: Real-Time Optical Flow-Aided 6D Object Pose and Velocity Tracking
+Stability and Convergence Analysis of 3D Feature-Based Visual Servoing
+A Robust Visual Servoing Controller for Anthropomorphic Manipulators with Field-Of-View Constraints and Swivel-Angle Motion
+Formation Tracking and Obstacle Avoidance for Multiple Quadrotors with Static and Dynamic Obstacles
+Deep Learning-Aided Synthetic Airspeed Estimation of UAVs for Analytical Redundancy with a Temporal Convolutional Network
+Reconfigurable Drone System for Transportation of Parcels with Variable Mass and Size
+Geometrically Constrained Trajectory Optimization for Multicopters
+Parameter Estimation and Control of Multirotors
+Indirect Force Control of a Cable-Suspended Aerial Multi-Robot Manipulator
+Accurate High-Maneuvering Trajectory Tracking for Quadrotors: A Drag Utilization Method
+A Comparative Study of Nonlinear MPC and Differential-Flatness-Based Control for Quadrotor Agile Flight
+Model Predictive Contouring Control for Time-Optimal Quadrotor Flight
+Automating Vascular Shunt Insertion with the dVRK Surgical Robot
+CogniDaVinci: Towards Estimating Mental Workload Modulated by Visual Delays During Telerobotic Surgery -- an EEG-Based Analysis
+Exploring an External Approach to Subretinal Drug Delivery Via Robot Assistance and B-Mode OCT
+Towards Surgical Context Inference and Translation to Gestures
+A Method to Use Haptic Feedback of Laryngoscope Force Vector for Endotracheal Intubation Training
+A Hydraulic Soft Robotic Detrusor Based on an Origami Design
+Semi-Autonomous Robotic Control of a Self-Shaping Cochlear Implant
+A Hybrid Steerable Robot with Magnetic Wrist for Minimally Invasive Epilepsy Surgery
+Induced Vertex Motion As a Performance Measure for Surgery in Confined Spaces
+Foot Gestures to Control the Grasping of a Surgical Robot
+Design and Development of a Novel Force-Sensing Robotic System for the Transseptal Puncture in Left Atrial Catheter Ablation
+Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery
+Implicit Neural Field Guidance for Teleoperated Robot‐assisted Surgery
+Bidirectional Generalised Rigid Point Set Registration
+Finding the Optimal Incision Point in Robotic Assisted Surgery
+Development and Experimental Verification of a 3D Dynamic Absolute Nodal Coordinate Formulation Model of Flexible Prostate Biopsy/Brachytherapy Needles
+Collaborative Robotic Biopsy with Trajectory Guidance and Needle Tip Force Feedback
+Development and Evaluation of a Robotic Vessel Positioning System for Semi-Automatic Microvascular Anastomosis
+Robotic Sonographer: Autonomous Robotic Ultrasound Using Domain Expertise in Bayesian Optimization
+Autonomous Intelligent Navigation for Flexible Endoscopy Using Monocular Depth Guidance and 3-D Shape Planning
+A Probabilistic Rotation Representation for Symmetric Shapes with an Efficiently Computable Bingham Loss Function
+Topological Trajectory Prediction with Homotopy Classes
+Information-Theoretic Abstraction of Semantic Octree Models for Integrated Perception and Planning
+BO-ICP: Initialization of Iterative Closest Point Based on Bayesian Optimization
+DuEqNet: Dual-Equivariance Network in Outdoor 3D Object Detection for Autonomous Driving
+NVRadarNet: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving
+TransRSS: Transformer-Based Radar Semantic Segmentation
+Source-Free Unsupervised Domain Adaptation for 3D Object Detection in Adverse Weather
+Bayesian Deep Learning for Affordance Segmentation in Images
+Multi-View Keypoints for Reliable 6D Object Pose Estimation
+Towards Unsupervised Filtering of Millimetre-Wave Radar Returns for Autonomous Vehicle Road Following
+Domain Generalised Fully Convolutional One Stage Detection
+GNN-Based Point Cloud Maps Feature Extraction and Residual Feature Fusion for 3D Object Detection
+Self-Supervised Learning of Object Segmentation from Unlabeled RGB-D Videos
+Depth Is All You Need for Monocular 3D Detection
+Towards Visual Classification under Class Ambiguity
+LidarAugment: Searching for Scalable 3D LiDAR Data Augmentations
+HFT: Lifting Perspective Representations Via Hybrid Feature Transformation for BEV Perception
+Radar Velocity Transformer: Single-Scan Moving Object Segmentation in Noisy Radar Point Clouds
+CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention
+Distributional Instance Segmentation: Modeling Uncertainty and High Confidence Predictions with Latent-MaskRCNN
+Bayesian Inference of Fog Visibility from LiDAR Point Clouds and Correlation with Probabilities of Detection
+GDIP: Gated Differentiable Image Processing for Object Detection in Adverse Conditions
+"Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR"
+Topology Matching of Branched Deformable Linear Objects
+DLOFTBs – Fast Tracking of Deformable Linear Objects with B-Splines
+Self-Supervised Cloth Reconstruction Via Action-Conditioned Cloth Tracking
+Learning to Estimate 3-D States of Deformable Linear Objects from Single-Frame Occluded Point Clouds
+Feature Extraction for Effective and Efficient Deep Reinforcement Learning on Real Robotic Platforms
+Online Safety Property Collection and Refinement for Safe Deep Reinforcement Learning in Mapless Navigation
+Learning to View: Decision Transformers for Active Object Detection
+Deep Reinforcement Learning for Autonomous Driving Using High-Level Heterogeneous Graph Representations
+Learning on the Job: Self-Rewarding Offline-To-Online Finetuning for Industrial Insertion of Novel Connectors from Vision
+Multi-Alpha Soft Actor-Critic: Overcoming Stochastic Biases in Maximum Entropy Reinforcement Learning
+Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning
+Real World Offline Reinforcement Learning with Realistic Data Source
+Robotic Table Wiping Via Reinforcement Learning and Whole-Body Trajectory Optimization
+Towards True Lossless Sparse Communication in Multi-Agent Systems
+Adaptive Risk-Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning
+Self-Adaptive Driving in Nonstationary Environments through Conjectural Online Lookahead Adaptation
+Sim-To-Real Policy and Reward Transfer with Adaptive Forward Dynamics Model
+Safety-Constrained Policy Transfer with Successor Features
+GNM: A General Navigation Model to Drive Any Robot
+ViPFormer: Efficient Vision-And-Pointcloud Transformer for Unsupervised Pointcloud Understanding
+Learning Exploration Strategies to Solve Real-World Marble Runs
+Multi-Embodiment Legged Robot Control As a Sequence Modeling Problem
+Efficient Recovery Learning Using Model Predictive Meta-Reasoning
+Multi-Swarm Genetic Gray Wolf Optimizer with Embedded Autoencoders for High-Dimensional Expensive Problems
+"H-SAUR: Hypothesize, Simulate, Act, Update, and Repeat for Understanding Object Articulations from Interactions"
+Self-Supervised Learning of Action Affordances As Interaction Modes
+LATTE: LAnguage Trajectory TransformEr
+Learning Visual Locomotion with Cross-Modal Supervision
+MMIC-I: A Robotic Platform for Assembly Integration and Internal Locomotion through Mechanical Meta-Material Structures
+Flow-Based Rendezvous and Docking for Marine Modular Robots in Gyre-Like Environments
+Mobility Analysis of Screw-Based Locomotion and Propulsion in Various Media
+TJ-FlyingFish: Design and Implementation of an Aerial-Aquatic Quadrotor with Tiltable Propulsion Units
+Modular Multi-Axis Elastic Actuator with Torque Sensing Capable P-CFH for Highly Impact Resistive Robot Leg
+Design and Mechanics of Cable-Driven Rolling Diaphragm Transmission for High-Transparency Robotic Motion
+Twist Snake: Plastic Table-Top Cable-Driven Robotic Arm with All Motors Located at the Base Link
+Strained Elastic Surfaces with Adjustable-Modulus Edges (SESAMEs) for Soft Robotic Actuation
+Controllable Mechanical-Domain Energy Accumulators
+Concept Design of a New XY Compliant Parallel Manipulator with Spatial Configuration
+Computational Design of 3D-Printable Compliant Mechanisms with Bio-Inspired Sliding Joints
+Compliant Finger Joint with Controlled Variable Stiffness Based on Twisted Strings Actuation
+Design of a Variable Stiffness Spring with Human-Selectable Stiffness
+Novel Spring Mechanism Enables Iterative Energy Accumulation under Force and Deformation Constraints
+"Fast, Reliable Constrained Manipulation Using a VSA Driven Planar Robot"
+A Stiffness-Changeable Soft Finger Based on Chain Mail Jamming
+Repetitive Twisting Durability of Synthetic Fiber Ropes
+Computational Design of Closed-Chain Linkages: Hopping Robot Driven by Morphological Computation
+Trajectory Planning Issues in Cuspidal Commercial Robots
+Big Data Approach for Synthesizing a Spatial Linkage Mechanism
+Croche-Matic: A Robot for Crocheting 3D Cylindrical Geometry
+A Novel Platform to Control Biofouling in Pearl Oysters Cultivation
+Embedded Active Stiffening Mechanisms to Modulate Kresling Tower Kinetostatic Properties
+"A Compact, Two-Part Torsion Spring Architecture"
+"HREyes: Design, Development, and Evaluation of a Novel Method for AUVs to Communicate Information and Gaze Direction"
+Dense Depth Completion Based on Multi-Scale Confidence and Self-Attention Mechanism for Intestinal Endoscopy
+Design of an Energy-Aware Cartesian Impedance Controller for Collaborative Disassembly
+Towards Robots That Influence Humans Over Long-Term Interaction
+Carrying the Uncarriable: A Deformation-Agnostic and Human-Cooperative Framework for Unwieldy Objects Using Multiple Robots
+A Control Approach for Human-Robot Ergonomic Payload Lifting
+Active Reward Learning from Online Preferences
+Supernumerary Robotic Limbs for Next Generation Space Suit Technology
+It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying
+Collision Detection and Contact Point Estimation Using Virtual Joint Torque Sensing Applied to a Cobot
+The Human Gaze Helps Robots Run Bravely and Efficiently in Crowds
+A Gaze-Speech System in Mixed Reality for Human-Robot Interaction
+ADAPT: Action-Aware Driving Caption Transformer
+Aligning Human Preferences with Baseline Objectives in Reinforcement Learning
+EWareNet: Emotion Aware Pedestrian Intent Prediction and Adaptive Spatial Profile Fusion for Social Robot Navigation
+SCAN: Socially-Aware Navigation Using Monte Carlo Tree Search
+SGPT: The Secondary Path Guides the Primary Path in Transformers for HOI Detection
+Robot Person Following under Partial Occlusion
+A Little Bit Attention Is All You Need for Person Re-Identification
+Automatic Generation of Robot Facial Expressions with Preferences
+A Task Allocation Framework for Human Multi-Robot Collaborative Settings
+TOP-JAM: A Bio-Inspired Topology-Based Model of Joint Attention for Human-Robot Interaction
+NOPA: Neurally-Guided Online Probabilistic Assistance for Building Socially Intelligent Home Assistants
+Embodied Referring Expression for Manipulation Question Answering in Interactive Environment
+Congestion Prediction for Large Fleets of Mobile Robots
+Decentralised Active Perception in Continuous Action Spaces for the Coordinated Escort Problem
+Socially Fair Coverage Control
+Exploiting Trust for Resilient Hypothesis Testing with Malicious Robots
+Obscuring Objectives with Pareto-Optimal Privacy-Aware Trajectories in Multi-Robot Coverage
+Safe and Distributed Multi-Agent Motion Planning under Minimum Speed Constraints
+Minimally Constrained Multi-Robot Coordination with Line-Of-Sight Connectivity Maintenance
+Relay Pursuit for Multirobot Target Tracking on Tile Graphs
+Passivity-Based Decentralized Control for Collaborative Grasping of Under-Actuated Aerial Manipulators
+Distributed Barrier Function-Enabled Human-In-The-Loop Control for Multi-Robot Systems
+LEMURS: Learning Distributed Multi-Robot Interactions
+Multi-Agent Active Search Using Detection and Location Uncertainty
+HMAAC: Hierarchical Multi-Agent Actor-Critic for Aerial Search with Explicit Coordination Modeling
+GUTS: Generalized Uncertainty-Aware Thompson Sampling for Multi-Agent Active Search
+CLIO: A Novel Robotic Solution for Exploration and Rescue Missions in Hostile Mountain Environments
+Towards Efficient Gas Leak Detection in Built Environments: Data-Driven Plume Modeling for Gas Sensing Robots
+Image-To-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs
+Small-Shot Multi-Modal Distillation for Vision-Based Autonomous Steering
+SceneCalib: Automatic Targetless Calibration of Cameras and Lidars in Autonomous Driving
+Unsupervised Road Anomaly Detection with Language Anchors
+Expanding the Deployment Envelope of Behavior Prediction Via Adaptive Meta-Learning
+Interaction-Aware Trajectory Planning for Autonomous Vehicles with Analytic Integration of Neural Networks into Model Predictive Control
+GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting
+RGB-Event Fusion for Moving Object Detection in Autonomous Driving
+Self-Entanglement-Free Tethered Path Planning for Non-Particle Differential-Driven Robot
+Operating with Inaccurate Models by Integrating Control-Level Discrepancy Information into Planning
+Approximation Algorithms for Robot Tours in Random Fields with Guaranteed Estimation Accuracy
+Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments
+Efficient Optimal Planning in Non-FIFO Time-Dependent Flow Fields
+Human-Guided Planning for Complex Manipulation Tasks Using the Screw Geometry of Motion
+Towards Efficient Trajectory Generation for Ground Robots Beyond 2D Environment
+Concentration of Measure Phenomenon and Its Implications for Sample-Based Planning Algorithms in Very-High Dimensional Configuration Spaces
+Safeguarding Learning-Based Planners under Motion and Sensing Uncertainties Using Reachability Analysis
+Risk-Aware Spatio-Temporal Logic Planning in Gaussian Belief Spaces
+Density Planner: Minimizing Collision Risk in Motion Planning with Dynamic Obstacles Using Density-Based Reachability
+Sequential Bayesian Optimization for Adaptive Informative Path Planning with Multimodal Sensing
+Tree-Structured Policy Planning with Learned Behavior Models
+Fast and Scalable Signal Inference for Active Robotic Source Seeking
+Active Inference for Autonomous Decision-Making with Contextual Multi-Armed Bandits
+Covariance Steering for Uncertain Contact-Rich Systems
+A Congestion-Aware Path Planning Method Considering Crowd Spatial-Temporal Anomalies for Long-Term Autonomy of Mobile Robots
+Risk-Aware Model Predictive Path Integral Control Using Conditional Value-At-Risk
+Chance-Constrained Motion Planning with Event-Triggered Estimation
+STAP: Sequencing Task-Agnostic Policies
+A Multi-Step Dynamics Modeling Framework for Autonomous Driving in Multiple Environments
+Self-Adaptive Teaching-Learning-Based Optimizer with Improved RBF and Sparse Autoencoder for Complex Optimization Problems
+Learning Neuro-Symbolic Programs for Language Guided Robot Manipulation
+Real-Time Generative Grasping with Spatio-Temporal Sparse Convolution
+Keypoint-GraspNet: Keypoint-Based 6-DoF Grasp Generation from the Monocular RGB-D Input
+Pick2Place: Task-Aware 6DoF Grasp Estimation Via Object-Centric Perspective Affordance
+RGB-D Grasp Detection Via Depth Guided Learning with Cross-Modal Attention
+Towards Generalized Robot Assembly through Compliance-Enabled Contact Formations
+Design of a Multimodal Fingertip Sensor for Dynamic Manipulation
+TactoFind: A Tactile Only System for Object Retrieval
+FingerSLAM: Closed-Loop Unknown Object Localization and Reconstruction from Visuo-Tactile Feedback
+Differential Dynamic Programming Based Hybrid Manipulation Strategy for Dynamic Grasping
+A Bioinspired Synthetic Nervous System Controller for Pick-And-Place Manipulation
+SDF-Based Graph Convolutional Q-Networks for Rearrangement of Multiple Objects
+Towards Open-World Interactive Disambiguation for Robotic Grasping
+GenDexGrasp: Generalizable Dexterous Grasping
+Mechanical Intelligence for Prehensile In-Hand Manipulation of Spatial Trajectories
+Fast-Grasp'D: Dexterous Multi-Finger Grasp Generation through Differentiable Simulation
+An Analysis of Unified Manipulation with Robot Arms and Dexterous Hands Via Optimization-Based Motion Synthesis
+"Spherical Cubic Blends: C2-Continuous, Zero-Clamped, and Time-Optimized Interpolation of Quaternions"
+Object Reconfiguration with Simulation-Derived Feasible Actions
+CuRobo: Parellelized Collision-Free Robot Motion Generation
+Allowing Safe Contact in Robotic Goal-Reaching: Planning and Tracking in Operational and Null Spaces
+Kinodynamic Rapidly-Exploring Random Forest for Rearrangement-Based Nonprehensile Manipulation
+Trajectory Generation with Dynamic Programming for End-Effector Sway Damping of Forestry Machine
+Planning for Complex Non-Prehensile Manipulation among Movable Objects by Interleaving Multi-Agent Pathfinding and Physics-Based Simulation
+Torque-Limited Manipulation Planning through Contact by Interleaving Graph Search and Trajectory Optimization
+FDLNet: Boosting Real-Time Semantic Segmentation by Image-Size Convolution Via Frequency Domain Learning
+SphNet: A Spherical Network for Semantic Pointcloud Segmentation
+SRI-Graph: A Novel Scene-Robot Interaction Graph for Robust Scene Understanding
+3D VSG: Long-Term Semantic Scene Change Prediction through 3D Variable Scene Graphs
+Infrared Image Captioning with Wearable Device
+External Camera-Based Mobile Robot Pose Estimation for Collaborative Perception with Smart Edge Sensors
+"Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding"
+Deep Learning on Home Drone: Searching for the Optimal Architecture
+Mask3D: Mask Transformer for 3D Semantic Instance Segmentation
+Detecting Spatio-Temporal Relations by Combining a Semantic Map with a Stream Processing Engine
+Cross-Modality Time-Variant Relation Learning for Generating Dynamic Scene Graphs
+CPSeg: Cluster-Free Panoptic Segmentation of 3D LiDAR Point Clouds
+A Generic Diffusion-Based Approach for 3D Human Pose Prediction in the Wild
+DifFAR: Differentiable Frequency-Based Disentanglement for Aerial Video Action Recognition
+ANSEL Photobot: A Robot Event Photographer with Semantic Intelligence
+LODE: Locally Conditioned Eikonal Implicit Scene Completion from Sparse LiDAR
+Uncertainty-Aware LiDAR Panoptic Segmentation
+E-VFIA : Event-Based Video Frame Interpolation with Attention
+Edge-Guided Multi-Domain RGB-To-TIR Image Translation for Training Vision Tasks with Challenging Labels
+Weakly Supervised Referring Expression Grounding Via Target-Guided Knowledge Distillation
+VQA-Based Robotic State Recognition Optimized with Genetic Algorithm
+Center Feature Fusion: Selective Multi-Sensor Fusion of Center-Based Objects
+Towards Robust Reference System for Autonomous Driving: Rethinking 3D MOT
+LATITUDE: Robotic Global Localization with Truncated Dynamic Low-Pass Filter in City-Scale NeRF
+4DRadarSLAM: A 4D Imaging Radar SLAM System for Large-Scale Environments Based on Pose Graph Optimization
+A Unified BEV Model for Joint Learning of 3D Local Features and Overlap Estimation
+Data-Association-Free Landmark-Based SLAM
+Efficient Bundle Adjustment for Coplanar Points and Lines
+Convolutional Bayesian Kernel Inference for 3D Semantic Mapping
+SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations
+Efficient and Hybrid Decoder for Local Map Construction in Bird's-Eye-View
+Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation
+The Reflectance Field Map: Mapping Glass and Specular Surfaces in Dynamic Environments
+Inverse Perspective Mapping-Based Neural Occupancy Grid Map for Visual Parking
+Efficient Implicit Neural Reconstruction Using LiDAR
+Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station
+"Continuous and Precise Positioning in Urban Environments by Tightly Coupled Integration of GNSS, INS and Vision"
+360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation
+Autonomous Navigation in Unknown Environments with Sparse Bayesian Kernel-Based Occupancy Mapping
+Multitask Learning for Scalable and Dense Multilayer Bayesian Map Inference
+Sigma-FP: Robot Mapping of 3D Floor Plans with an RGB-D Camera under Uncertainty
+Continuous-Time Trajectory Estimation for Differentially Flat Systems
+"IC-GVINS: A Robust, Real-Time, INS-Centric GNSS-Visual-Inertial Navigation System"
+Gyro-Net: IMU Gyroscopes Random Errors Compensation Method Based on Deep Learning
+Self-Supervised Feature Learning for Long-Term Metric Visual Localization
+GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration
+Model Learning with Backlash Compensation for a Tendon-Driven Surgical Robot
+Simultaneous Online Registration-Independent Stiffness Identification and Tip Localization of Surgical Instruments in Robot-Assisted Eye Surgery
+Robot-Assisted Retraction for Transoral Surgery
+HIFUSK – High Intensity Focused Ultrasound Surgery Based on KUKA Robot
+Rethinking Feature Extraction: Gradient-Based Localized Feature Extraction for End-To-End Surgical Downstream Tasks
+Sim-To-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery
+Shape Tracking and Feedback Control of Cardiac Catheter Using MRI-Guided Robotic Platform - Validation with Pulmonary Vein Isolation Simulator in MRI
+A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization
+Magnetic Soft Continuum Robots with Braided Reinforcement
+Shape Sensing of Flexible Robots Based on Deep Learning
+Multifingered Grasping Based on Multimodal Reinforcement Learning
+Planning of Power Grasps Using Infinite Program under Complementary Constraints
+A Soft Barometric Tactile Sensor to Simultaneously Localize Contact and Estimate Normal Force with Validation to Detect Slip in a Robotic Gripper
+Learning Efficient Policies for Picking Entangled Wire Harnesses: An Approach to Industrial Bin Picking
+A Novel Scaffold Reinforced Actuator with Tunable Attitude Ability for Grasping
+Deep Learning Reactive Robotic Grasping with a Versatile Vacuum Gripper
+An Unconstrained Convex Formulation of Compliant Contact
+Robotic Manipulation of Sperm As a Deformable Linear Object
+Robotic Rotational Positioning of End-Effectors for Micromanipulation
+Comparing EMG Continuous Movement Decoding with Joints Unconstrained and Constrained
+Design and Validation of a Polycentric Hybrid Knee Prosthesis with Electromagnet-Controlled Mode Transition
+"Powered Knee and Ankle Prosthesis with Adaptive Control Enables Climbing Stairs with Different Stair Heights, Cadences, and Gait Patterns"
+"Design, Control, and Experimental Evaluation of a Novel Robotic Glove System for Patients with Brachial Plexus Injuries"
+Data-Driven Variable Impedance Control of a Powered Knee-Ankle Prosthesis for Adaptive Speed and Incline Walking
+NESM-Gamma: An Upper-Limb Exoskeleton with Compliant Actuators for Clinical Deployment
+"Design, Development, and Control of a Hand/Wrist Exoskeleton for Rehabilitation and Training"
+Markovian Transparency Control of an Exoskeleton Robot
+ArmAssist: A Telerehabilitation Solution for Upper-Limb Rehabilitation at Home
+"A Soft, Wearable Skin-Brace for Assisting Forearm Pronation and Supination with a Low-Profile Design"
+Teachers in Concordance for Pseudo-Labeling of 3D Sequential Data
+Automatic Labeling to Generate Training Data for Online LiDAR-Based Moving Object Segmentation
+Uncertainty for Identifying Open-Set Errors in Visual Object Detection
+Bounds on Optimal Revisit Times in Persistent Monitoring Missions with a Distinct & Remote Service Station
+Force Sharing Problem During Gait Using Inverse Optimal Control
+Data-Driven Iterative Optimal Control for Switched Dynamical Systems
+BiConMP: A Nonlinear Model Predictive Control Framework for Whole Body Motion Planning
+Environment Warped Gait Trajectory Optimization for Complex Terrains
+Differential Dynamic Programming with Nonlinear Safety Constraints under System Uncertainties
+ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots
+Experimental Study on Accurate Calibration for Industrial Robot Via Integrated Extended Kalman and Beetle Antennae Search
+Real-Time Model Predictive Control and System Identification Using Differentiable Physics Simulation
+PBACalib: Targetless Extrinsic Calibration for High-Resolution LiDAR-Camera System Based on Plane-Constrained Bundle Adjustment
+Probabilistic Framework for Hand-Eye and Robot-World Calibration AX=YB
+Multi-Kernel Maximum Correntropy Kalman Filter for Orientation Estimation
+A4LidarTag: Depth-Based Fiducial Marker for Extrinsic Calibration of Solid-State Lidar and Camera
+A CoppeliaSim Dynamic Simulator for the Da Vinci Research Kit
+Fast and Robust Inverse Kinematics of Serial Robots Using Halley's Method
+Large-Dimensional Multibody Dynamics Simulation Using Contact Nodalization and Diagonalization
+EMS®: A Massive Computational Experiment Management System towards Data-Driven Robotics
+Rmagine: 3D Range Sensor Simulation in Polygonal Maps Via Ray Tracing for Embedded Hardware on Mobile Robots
+A Framework for Fast Prototyping of Photo-Realistic Environments with Multiple Pedestrians
+RoboSC: A Domain-Specific Language for Supervisory Controller Synthesis of ROS Applications
+KubeROS: A Unified Platform for Automated and Scalable Deployment of ROS2-Based Multi-Robot Applications
+Domain-Specific Languages for Kinematic Chains and Their Solver Algorithms: Lessons Learned for Composable Models
+SIERRA: A Modular Framework for Accelerating Research and Improving Reproducibility
+OpTaS: An Optimization-Based Task Specification Library for Trajectory Optimization and Model Predictive Control
+CMG-Net: An End-To-End Contact-Based Multi-Finger Dexterous Grasping Network
+ARMBench: An Object-Centric Benchmark Dataset for Robotic Manipulation
+FewSOL: A Dataset for Few-Shot Object Learning in Robotic Environments
+WorldGen: A Large Scale Generative Simulator
+Lossless SIMD Compression of LiDAR Range and Attribute Scan Sequences
+3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision
+"METEOR: A Dense, Heterogeneous, and Unstructured Traffic Dataset with Rare Behaviors"
+Kollagen: A Collaborative SLAM Pose Graph Generator
+AvoidBench: A High-Fidelity Vision-Based Obstacle Avoidance Benchmarking Suite for Multi-Rotors
+Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype Via Terrain Authoring and Active Learning
+"Train Offline, Test Online: A Real Robot Learning Benchmark"
+Benchmarking Potential Based Rewards for Learning Humanoid Locomotion
+Household Clothing Set and Benchmarks for Characterising End-Effector Cloth Manipulation
+Parameter Optimization for Manipulator Motion Planning Using a Novel Benchmark Set
+Benchmarking Reinforcement Learning Techniques for Autonomous Navigation
+"A Benchmark for Multi-Robot Planning in Realistic, Complex and Cluttered Environments"
+D-Align: Dual Query Co-Attention Network for 3D Object Detection Based on Multi-Frame Point Cloud Sequence
+DDS3D: Dense Pseudo-Labels with Dynamic Threshold for Semi-Supervised 3D Object Detection
+Fast Staircase Detection and Estimation Using 3D Point Clouds with Multi-Detection Merging for Heterogeneous Robots
+Cost-Aware Evaluation and Model Scaling for LiDAR-Based 3D Object Detection
+Zero-Shot Object Detection Based on Dynamic Semantic Vectors
+Road Anomaly Segmentation Based on Pixel-Wise Logit Variance with Iterative Background Highlighting
+WEDGE: Web-Image Assisted Domain Generalization for Semantic Segmentation
+Incremental Few-Shot Object Detection Via Simple Fine-Tuning Approach
+Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
+Multi-To-Single Knowledge Distillation for Point Cloud Semantic Segmentation
+On Improving Boundary Quality of Instance Segmentation in Cluttered and Chaotic Scenarios
+Real-Time Background Subtraction under Varying Lighting Conditions
+Few-Shot 3D LiDAR Semantic Segmentation for Autonomous Driving
+ERASE-Net: Efficient Segmentation Networks for Automotive Radar Signals
+ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation Via Regularized Domain Concatenation
+Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection
+Nerf2nerf: Pairwise Registration of Neural Radiance Fields
+NeRF2Real: Sim2real Transfer of Vision-Guided Bipedal Motion Skills Using Neural Radiance Fields
+Density-Aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields
+Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation
+NeRF-Loc: Visual Localization with Conditional Neural Radiance Field
+Multimodal Neural Radiance Field
+Orbeez-SLAM: A Real-Time Monocular Visual SLAM with ORB Features and NeRF-Realized Mapping
+NeRFing It: Offline Object Segmentation through Implicit Modeling
+Using Learning Curve Predictions to Learn from Incorrect Feedback
+Conflict-Constrained Multi-Agent Reinforcement Learning Method for Parking Trajectory Planning
+Improving Robot Navigation in Crowded Environments Using Intrinsic Rewards
+Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
+Reinforcement Learning for Safe Robot Control Using Control Lyapunov Barrier Functions
+"Safe Reinforcement Learning of Dynamic High-Dimensional Robotic Tasks: Navigation, Manipulation, Interaction"
+Robotic Control Using Model Based Meta Adaption
+SACPlanner: Real-World Collision Avoidance with a Soft Actor Critic Local Planner and Polar State Representations
+Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation
+Privacy-Preserving Video Conferencing Via Thermal-Generative Images
+Streaming LifeLong Learning with Any-Time Inference
+Code as Policies: Language Model Programs for Embodied Control
+Learning Sim-To-Real Dense Object Descriptors for Robotic Manipulation
+Learning Visual-Audio Representations for Voice-Controlled Robots
+Visuomotor Control in Multi-Object Scenes Using Object-Aware Representations
+Sample-Efficient Goal-Conditioned Reinforcement Learning Via Predictive Information Bottleneck for Goal Representation Learning
+Context-Aware Robot Control Using Gesture Episodes
+Automated Action Evaluation for Robotic Imitation Learning Via Siamese Neural Networks
+Failure-Aware Policy Learning for Self-Assessable Robotics Tasks
+Multimodal Time Series Learning of Robots Based on Distributed and Integrated Modalities: Verification with a Simulator and Actual Robots
+Using Memory-Based Learning to Solve Tasks with State-Action Constraints
+Structured Motion Generation with Predictive Learning: Proposing Subgoal for Long-Horizon Manipulation
+Sequence-Agnostic Multi-Object Navigation
+Occlusion Reasoning for Skeleton Extraction of Self-Occluded Tree Canopies
+Statistical Shape Representations for Temporal Registration of Plant Components in 3D
+3D Reconstruction-Based Seed Counting of Sorghum Panicles for Agricultural Inspection
+"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain"
+Target-Aware Implicit Mapping for Agricultural Crop Inspection
+Robust Plant Localization and Phenotyping in Dense 3D Point Clouds for Precision Agriculture
+Neural-Kalman GNSS/INS Navigation for Precision Agriculture
+Fruit Tracking Over Time Using High-Precision Point Clouds
+A MySQL Database for the Systematic Configuration Selection of Redundant Manipulators When Path Planning in Confined Spaces
+Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator
+Intuitive Telemanipulation of Hyper-Redundant Snake Robots within Locomotion and Reorientation Using Task-Priority Inverse Kinematics
+An Equivalent Two Section Method for Calculating the Workspace of Multi-Segment Continuum Robots
+On Locally Optimal Redundancy Resolution Using the Basis of the Null Space
+Optimal Parameterized Joints Selection to Improve Motion Planning Performance of Redundant Manipulators
+A Kinematically Redundant (6+1)-Dof Hybrid Parallel Robot for Delicate Physical Environment and Robot Interaction (pERI)
+Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators
+Kinematic Analysis and Design of a Novel (6+3)-DoF Parallel Robot with Fixed Actuators
+RangedIK: An Optimization-Based Robot Motion Generation Method for Ranged-Goal Tasks
+Contact Based Turning Gait of a Novel Legged-Wheeled Quadruped
+Computational Modeling in System with Non-Circular Timing Pulleys
+"The New Exhibition {em Blind Machines}, a Large 3D Printing Machine"
+New Bracket Polynomials Associated with the General Gough-Stewart Parallel Robot Singularities
+Output Mode Switching for Parallel Five-Bar Manipulators Using a Graph-Based Path Planner
+Dimensional Optimization and Anti-Disturbance Analysis of an Upgraded Feed Mechanism in FAST
+"Online Social Robot Navigation in Indoor, Large and Crowded Environments"
+Learning Responsibility Allocations for Safe Human-Robot Interaction with Applications to Autonomous Driving
+Efficient Inference of Temporal Task Specifications from Human Demonstrations Using Experiment Design
+On the Impact of Interruptions During Multi-Robot Supervision Tasks
+System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work
+Human Non-Compliance with Robot Spatial Ownership Communicated Via Augmented Reality: Implications for Human-Robot Teaming Safety
+Robust Robot Planning for Human-Robot Collaboration
+Natural Language Instruction Understanding for Robotic Manipulation: A Multisensory Perception Approach
+EgoHMR: Egocentric Human Mesh Recovery Via Hierarchical Latent Diffusion Model
+Telerobot Operators Can Account for Varying Transmission Dynamics in a Visuo-Haptic Object Tracking Task
+Hierarchical Intention Tracking for Robust Human-Robot Collaboration in Industrial Assembly Tasks
+CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration
+Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?
+PedFormer: Pedestrian Behavior Prediction Via Cross-Modal Attention Modulation and Gated Multitask Learning
+Robot-Assisted Eye-Hand Coordination Training System by Estimating Motion Direction Using Smooth-Pursuit Eye Movements
+Generalizable Movement Intention Recognition with Multiple Heterogeneous EEG Datasets
+Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing
+Humans Need Augmented Feedback to Physically Track Non-Biological Robot Movements
+Robot Mimicry Attack on Keystroke-Dynamics User Identification and Authentication System
+In-Mouth Robotic Bite Transfer with Visual and Haptic Sensing
+Robot Trust and Self-Confidence Based Role Arbitration Method for Physical Human-Robot Collaboration
+Design Optimization and Data-Driven Shallow Learning for Dynamic Modeling of a Smart Segmented Electroadhesive Clutch
+Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation Method
+Touch Classification on Robotic Skin Using Multimodal Tactile Sensing Modules
+Distributed Data-Driven Predictive Control for Multi-Agent Collaborative Legged Locomotion
+On the Use of Torque Measurement in Centroidal State Estimation
+DMMGAN: Diverse Multi Motion Prediction of 3D Human Joints Using Attention-Based Generative Adversarial Network
+Contact Optimization for Non-Prehensile Loco-Manipulation Via Hierarchical Model Predictive Control
+Optimal Scheduling of Models and Horizons for Model Hierarchy Predictive Control
+STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead
+Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion
+Getting Air: Modelling and Control of a Hybrid Pneumatic-Electric Legged Robot
+Enhanced Balance for Legged Robots Using Reaction Wheels
+Versatile Real-Time Motion Synthesis Via Kino-Dynamic MPC with Hybrid-Systems DDP
+Distributed Model Predictive Formation Control with Gait Synchronization for Multiple Quadruped Robots
+Video Waterdrop Removal Via Spatio-Temporal Fusion in Driving Scenes
+Unsupervised Learning of Depth and Pose Based on Monocular Camera and Inertial Measurement Unit (IMU)
+Self-Supervised Multi-Frame Monocular Depth Estimation with Pseudo-LiDAR Pose Augmentation
+Anomaly Detection Based Robust Autonomous Navigation
+Learning Perceptual Hallucination for Multi-Robot Navigation in Narrow Hallways
+Multi-Head Attention Machine Learning for Fault Classification in Mixed Autonomous and Human-Driven Vehicle Platoons
+GP-Frontier for Local Mapless Navigation
+Image Masking for Robust Self-Supervised Monocular Depth Estimation
+Learning-Based Uncertainty-Aware Navigation in 3D Off-Road Terrains
+Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts
+Interpretable and Flexible Target-Conditioned Neural Planners for Autonomous Vehicles
+Visibility-Aware Navigation among Movable Obstacles
+Trajectory Error Compensation for Optimal Control of UMA-2 – a Climbing Robot Executing Maintenance Operation in Harsh Environment
+Obstacle-Aware Topological Planning Over Polyhedral Representation for Quadrotors
+Trajectory Optimization for 3D Shape-Changing Robots with Differential Mobile Base
+Trajectory Optimization for Distributed Manipulation by Shaping a Physical Field
+Globally Guided Trajectory Planning in Dynamic Environments
+VP-STO: Via-Point-Based Stochastic Trajectory Optimization for Reactive Robot Behavior
+Modular and Parallelizable Multibody Physics Simulation Via Subsystem-Based ADMM
+Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving under Static and Dynamic Obstacle Constraints
+A General Locomotion Approach for a Novel Multi-Legged Spherical Robot
+A Coarse-To-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance
+Adaptive Approximation of Dynamics Gradients Via Interpolation to Speed up Trajectory Optimisation
+"Learning Augmented, Multi-Robot Long-Horizon Navigation in Partially Mapped Environments"
+Switching Attention in Time-Varying Environments Via Bayesian Inference of Abstractions
+Hierarchical Policy Blending As Inference for Reactive Robot Control
+Efficient Learning of High Level Plans from Play
+Multi-Objective Ergodic Search for Dynamic Information Maps
+Safety-Critical Ergodic Exploration in Cluttered Environments Via Control Barrier Functions
+GuILD: Guided Incremental Local Densification for Accelerated Sampling-Based Motion Planning
+ARiADNE: A Reinforcement Learning Approach Using Attention-Based Deep Networks for Exploration
+On Shortest Arc-To-Arc Dubins Path
+Robust Navigation with Cross-Modal Fusion and Knowledge Transfer
+Contextual Multi-Objective Path Planning
+A Continuous Off-Policy Reinforcement Learning Scheme for Optimal Motion Planning in Simply-Connected Workspaces
+Towards Robust Autonomous Grasping with Reflexes Using High-Bandwidth Sensing and Actuation
+High-Speed Scooping: An Implementation through Stiffness Control and Direct-Drive Actuation
+GraspAda: Deep Grasp Adaptation through Domain Transfer
+Task-Oriented Stiffness Setting for a Variable Stiffness Hand
+Flipbot: Learning Continuous Paper Flipping Via Coarse-To-Fine Exteroceptive-Proprioceptive Exploration
+Anthropomorphic Robot Hand Using the Principle of Sweat and Fingerprints of Human Hands
+In-Hand Manipulation in Power Grasp: Design of an Adaptive Robot Hand with Active Surfaces
+Passive Robotic Gripper Using a Contact-Based Locking Mechanism
+The New Dexterity Adaptive Humanlike Robot Hand: Employing a Reconfigurable Palm for Robust Grasping and Dexterous Manipulation
+Picking by Tilting: In-Hand Manipulation for Object Picking Using Effector with Curved Form
+Linear Delta Arrays for Compliant Dexterous Distributed Manipulation
+A Tactile-Enabled Hybrid Rigid-Soft Continuum Manipulator for Forceful Enveloping Grasps Via Scale Invariant Desgin
+Adaptive Optimal Electrical Resistance Tomography for Large-Area Tactile Sensing
+Towards Open-Set Material Recognition Using Robot Tactile Sensing
+"RobotSweater: Scalable, Generalizable, and Customizable Machine-Knitted Tactile Skins for Robots"
+DTact: A Vision-Based Tactile Sensor That Measures High-Resolution 3D Geometry Directly from Darkness
+MagTac: Magnetic Six-Axis Force/Torque Fingertip Tactile Sensor for Robotic Hand Applications
+Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing
+Safe Self-Supervised Learning in Real of Visuo-Tactile Feedback Policies for Industrial Insertion
+In-Situ Mechanical Calibration for Vision-Based Tactile Sensors
+Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks
+TANDEM3D: Active Tactile Exploration for 3D Object Recognition
+Cable Routing and Assembly Using Tactile-Driven Motion Primitives
+A Tactile Feedback Insertion Strategy for Peg-In-Hole Tasks
+"Coupled, Closed-System Fluidic Actuators for Use in Wearable Rehabilitation Devices"
+Emulating Human Kinematic Behavior on Lower-Limb Prostheses Via Multi-Contact Models and Force-Based Nonlinear Control
+Simplified Motor Primitives for Gait Symmetrization: Pilot Study with an Active Hip Orthosis
+A Preliminary Study of the Effects of Active Recovery Reflexes on Stumble Recovery in a Swing-Assist Knee Prosthesis
+Exploring Multimodal Gait Rehabilitation and Assistance through an Adaptable Robotic Platform
+Bilateral Asymmetric Hip Stiffness Applied by a Robotic Hip Exoskeleton Elicits Kinematic and Kinetic Adaptation
+Gait Event Detection with Proprioceptive Force Sensing in a Powered Knee-Ankle Prosthesis: Validation Over Walking Speeds and Slopes
+Towards a Finned-Swimming Exoskeleton: A Robotic Flutter Kicking Testbed and Its Corresponding Thrust Generation
+"Continuous Prediction of Leg Kinematics During Walking Using Inertial Sensors, Smart Glasses, and Embedded Computing"
+Trajectory and Sway Prediction towards Fall Prevention
+Multi-Modal Learning and Relaxation of Physical Conflict for an Exoskeleton Robot with Proprioceptive Perception
+Learning Personalised Human Sit-To-Stand Motion Strategies Via Inverse Musculoskeletal Optimal Control
+Robust Human Pose Estimation under Gaussian Noise
+Enforcing Safety for Vision-Based Controllers Via Control Barrier Functions and Neural Radiance Fields
+Mimicking Real Forces on a Drone through a Haptic Suit to Enable Cost-Effective Validation
+Generating Formal Safety Assurances for High-Dimensional Reachability
+Safety Evaluation of Robot Systems Via Uncertainty Quantification
+Safety-Critical Controller Verification Via Sim2Real Gap Quantification
+One-Shot Reachability Analysis of Neural Network Dynamical Systems
+Parameter-Conditioned Reachable Sets for Updating Safety Assurances Online
+Hazard Analysis of Collaborative Automation Systems: A Two-Layer Approach Based on Supervisory Control and Simulation
+SmartRainNet: Uncertainty Estimation for Laser Measurement in Rain
+Data-Driven Optimal Control under Safety Constraints Using Sparse Koopman Approximation
+Predictive Runtime Verification of Skill-Based Robotic Systems Using Petri Nets
+CIOT: Constraint-Enhanced Inertial-Odometric Tracking for Articulated Dump Trucks in GNSS-Denied Mining Environments
+Wide-Area Geolocalization with a Limited Field of View Camera
+Probabilistic Plane Extraction and Modeling for Active Visual-Inertial Mapping
+Visual Language Maps for Robot Navigation
+Asynchronous State Estimation of Simultaneous Ego-Motion Estimation and Multiple Object Tracking for LiDAR-Inertial Odometry
+Pose-Graph SLAM Using Multi-Order Ultrasonic Echoes and Beamforming for Long-Range Inspection Robots
+"EdgeVO: An Efficient, Accurate, and Robust Edge-Based Visual Odometry"
+SCORE: A Second-Order Conic Initialization for Range-Aided SLAM
+A Real-Time Dynamic Obstacle Tracking and Mapping System for UAV Navigation and Collision Avoidance with an RGB-D Camera
+Resilient Terrain Navigation with a 5 DOF Metal Detector Drone
+Efficient Visual-Inertial Navigation with Point-Plane Map
+CAROM Air - Vehicle Localization and Traffic Scene Reconstruction from Aerial Videos
+Control of Rough Terrain Vehicles Using Deep Reinforcement Learning
+DynaVINS: A Visual-Inertial SLAM for Dynamic Environments
+Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models
+Learning Setup Policies: Reliable Transition between Locomotion Behaviours
+MMDF: Multi-Modal Deep Feature Based Place Recognition of Mobile Robots with Applications on Cross-Scene Navigation
+Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs
+Hierarchical Motion Planning for Autonomous Vehicles in Unstructured Dynamic Environments
+SOFT2: Stereo Visual Odometry for Road Vehicles Based on a Point-To-Epipolar-Line Metric
+Winding Through: Crowd Navigation Via Topological Invariance
+Tactile-Based Task Description through Edge Contact Formation Setpoints for Object Exploration and Manipulation
+3D Contact Point Cloud Reconstruction from Vision-Based Tactile Flow
+Visuo-Tactile Recognition of Partial Point Clouds Using PointNet and Curriculum Learning
+Bidirectional Sim-To-Real Transfer for GelSight Tactile Sensors with CycleGAN
+Development of a Novel 2-Dimensional Neck Haptic Device for Gait Balance Training
+Communicating Inferred Goals with Passive Augmented Reality and Active Haptic Feedback
+Touching the Sound: Audible Features Enable Haptics for Robot Control
+Haptify: A Measurement-Based Benchmarking System for Grounded Force-Feedback Devices
+Biomimetic Force and Impedance Adaptation Based on Broad Learning System in Stable and Unstable Tasks
+CPG-RL: Learning Central Pattern Generators for Quadruped Locomotion
+Research on Target Tracking for Robotic Fish Based on Low-Cost Scarce Sensing Information Fusion
+"An Anthropomorphic Robotic Finger with Innate Human-Finger-Like Biomechanical Advantages Part I: Design, Ligamentous Joint and Extensor Mechanism"
+An Anthropomorphic Robotic Finger with Innate Human-Finger-Like Biomechanical Advantages Part II: Flexible Tendon Sheath and Grasping Demonstration
+Sim-To-Real: Learning Energy-Efficient Slithering Gaits for a Snake-Like Robot
+S2worm: A Fast-Moving Untethered Insect-Scale Robot with 2-DoF Transmission Mechanism
+Towards a Discrete Snake-Like Robot Based on SMA-Actuated Tristable Modules for Follow the Leader Control Strategy
+Three-Dimensional Modeling and Kinematic Analysis of Human Elbow Joint Axis Based on Anatomy and Screw Theory
+High-Performance Six-DOF Flight Control of the Bee++: An Inclined-Stroke-Plane Approach
+Autonomous Dozer Sand Grading under Localization Uncertainties
+Self-Triggered Coverage Control for Mobile Sensors
+Constrained Gaussian Processes with Integrated Kernels for Long-Horizon Prediction of Dense Pedestrian Crowd Flows
+Large-Workspace Polyarticulated Micro-Structures Based-On Folded Silica for Tethered Nanorobotics
+Direction and Trajectory Tracking Control for Nonholonomic Spherical Robot by Combining Sliding Mode Controller and Model Prediction Controller
+Advanced Manufacturing Configuration by Sample-Efficient Batch Bayesian Optimization
+Automatically Deployable Robust Control of Modular Reconfigurable Robot Manipulators
+Velocity Following Control of a Pseudo-Driven Wheel for Reducing Internal Forces between Wheels
+Adaptive Tracking Control with Uncertainty-Aware and State-Dependent Feedback Action Blending for Robot Manipulators
+Kinetostatic Modeling of Tendon-Driven Parallel Continuum Robots
+Globally Optimal Solution to Inverse Kinematics of 7DOF Serial Manipulator
+Kinematic Redundancy Analysis for (2n+1)R Circular Manipulators
+Adaptive Constrained Kinematic Control Using Partial or Complete Task-Space Measurements
+Connecting Gaits in Energetically Conservative Legged Systems
+"Reduced Euler-Lagrange Equations of Floating-Base Robots: Computation, Properties & Applications"
+Model-Based Policy Search Using Monte Carlo Gradient Estimation with Real Systems Application
+Hybrid Learning of Time-Series Inverse Dynamics Models for Locally Isotropic Robot Motion
+A Joint Acceleration Estimation Method Based on a High-Order Disturbance Observer
+A Sampling-Based Motion Assignment Strategy with Multi-Performance Optimization for Macro-Micro Robotic System
+Offline Programming Guidance for Swarm Steering of Micro/Nano Magnetic Particles in a Dynamic Multichannel Vascular Model
+Mean Field Behaviour of Collaborative Multi-Agent Foragers
+Closed-Loop Motion Control of Robotic Swarms – a Tether-Based Strategy
+Controlling Collision-Induced Aggregations in a Swarm of Micro Bristle-Robots
+Multi-Robot Pickup and Delivery Via Distributed Resource Allocation
+Deep Reinforcement Learning for Decentralized Multi-Robot Exploration with Macro Actions
+Time-Inverted Kuramoto Model Meets Lissajous Curves: Multi-Robot Persistent Monitoring and Target Detection
+A Decentralized Multi-Robot Spatio-Temporal Multi-Task Assignment Approach for Perimeter Defense
+Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards
+Chance-Constrained Iterative Linear-Quadratic Stochastic Games
+The SLAM Hive Benchmarking Suite
+Discovering Multiple Algorithm Configurations
+Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications
+Robust Co-Design of Robots Via Cascaded Optimisation
+Autotuning Symbolic Optimization Fabrics for Trajectory Generation
+Auto-Assembly: A Framework for Automated Robotic Assembly Directly from CAD
+"General, Single-Shot, Target-Less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox"
+GaPT: Gaussian Process Toolkit for Online Regression with Application to Learning Quadrotor Dynamics
+Transferring Implicit Knowledge of Non-Visual Object Properties across Heterogeneous Robot Morphologies
+Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments
+"On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection"
+Visual Backtracking Teleoperation: A Data Collection Protocol for Offline Image-Based Reinforcement Learning
+COLA: COarse LAbel Pre-Training for 3D Semantic Segmentation of Sparse LiDAR Datasets
+Enhancing the Efficacy of Lower-Body Assistive Devices through the Understanding of Human Movement in the Real World
+DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation
+ATTACH Dataset: Annotated Two-Handed Assembly Actions for Human Action Understanding
+Synthetic-To-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances
+Robotic Method and Instrument to Efficiently Synthesize Faulty Conditions and Mass-Produce Faulty-Conditioned Data for Rotary Machines
+FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing
+Towards Multi-Day Field Deployment Autonomy: A Long-Term Self-Sustainable Micro Aerial Vehicle Robot
+Stable Station Keeping of Autonomous Sailing Robots Via the Switched Systems Approach for Ocean Observation
+CUREE: A Curious Underwater Robot for Ecosystem Exploration
+"Multi-Robot 3D Gas Distribution Mapping: Coordination, Information Sharing and Environmental Knowledge"
+L2E: Lasers to Events for 6-DoF Extrinsic Calibration of Lidars and Event Cameras
+Experimental Evaluation of a Method for Improving Experiment Design in Robot Identification
+DEdgeNet: Extrinsic Calibration of Camera and LiDAR with Depth-Discontinuous Edges
+Joint Camera Intrinsic and LiDAR-Camera Extrinsic Calibration
+Online Hand-Eye Calibration with Decoupling by 3D Textureless Object Tracking
+Using the Deflection Center to Auto-Calibrate the Pan-Tilt-Zoom Camera Linearly
+Coordinate Calibration of a Dual-Arm Robot System by Visual Tool Tracking
+A Graph-Based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups
+Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System
+Completely Rational SO(n) Orthonormalization
+An Active Learning Based Robot Kinematic Calibration Framework Using Gaussian Processes
+Identification of a Generalized Base Inertial Parameter Set of Robotic Manipulators Considering Mounting Configurations
+"Open-Vocabulary, Queryable Scene Representations for Real World Planning"
+ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models
+Guiding Reinforcement Learning with Shared Control Templates
+Anticipatory Planning: Improving Long-Lived Planning by Estimating Expected Cost of Future Tasks
+Differentiable Parsing and Visual Grounding of Natural Language Instructions for Object Placement
+Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification
+Improving the Generalizability of Trajectory Prediction Models with Frenét-Based Domain Normalization
+An Open Approach to Energy-Efficient Autonomous Mobile Robots
+Grounding Language with Visual Affordances Over Unstructured Data
+Gaka-Chu: A Self-Employed Autonomous Robot Artist
+LEARNEST: LEARNing Enhanced Model-Based State ESTimation for Robots Using Knowledge-Based Neural Ordinary Differential Equations
+A Joint Modeling of Vision-Language-Action for Target-Oriented Grasping in Clutter
+A Virtual Reality Framework for Fast Dataset Creation Applied to Cloth Manipulation with Automatic Semantic Labelling
+Skill-Based Robot Programming in Mixed Reality with Ad-Hoc Validation Using a Force-Enabled Digital Twin
+"A Virtual Reality Planning Environment for High-Risk, High-Latency Teleoperation"
+Avatarm: An Avatar with Manipulation Capabilities for the Physical Metaverse
+Interacting with Multi-Robot Systems Via Mixed Reality
+PointCloudLab: An Environment for 3D Point Cloud Annotation with Adapted Visual Aids and Levels of Immersion
+Augmented Reality-Assisted Robot Learning Framework for Minimally Invasive Surgery Task
+Intuitive Robot Integration Via Virtual Reality Workspaces
+Reconstructing Objects In-The-Wild for Realistic Sensor Simulation
+Real-Time Event Simulation with Frame-Based Cameras
+PCGen: Point Cloud Generator for LiDAR Simulation
+Differentiable Dynamics Simulation Using Invariant Contact Mapping and Damped Contact Force
+M-EMBER: Tackling Long-Horizon Mobile Manipulation Via Factorized Domain Transfer
+Sim2Real^2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation
+A Generic Power Wheelchair Lumped Model in the Sagittal Plane: Towards Realistic Self-Motion Perception in a Virtual Reality Simulator
+"FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment"
+SAMLoc: Structure-Aware Constraints with Multi-Task Distillation for Long-Term Visual Localization
+Energy-Based Models for Cross-Modal Localization Using Convolutional Transformers
+Boosting 3D Point Cloud Registration by Transferring Multi-Modality Knowledge
+Local_INN: Implicit Map Representation and Localization with Invertible Neural Networks
+Combining Scene Coordinate Regression and Absolute Pose Regression for Visual Relocalization
+A Consistency-Based Loss for Deep Odometry through Uncertainty Propagation
+Slice Transformer and Self-Supervised Learning for 6DoF Localization in 3D Point Cloud Maps
+AANet: Aggregation and Alignment Network with Semi-Hard Positive Sample Mining for Hierarchical Place Recognition
+Can Machines Garden? Systematically Comparing the AlphaGarden vs. Professional Horticulturalists
+On Domain-Specific Pre-Training for Effective Semantic Perception in Agricultural Robotics
+Semantic Keypoint Extraction for Scanned Animals Using Multi-Depth-Camera Systems
+Grasp Planning with CNN for Log-Loading Forestry Machine
+A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation Using Structure from Motion
+Optimal Multi-Robot Coverage Path Planning for Agricultural Fields Using Motion Dynamics
+CropNav: A Framework for Autonomous Navigation in Real Farms
+Tendon-Driven Soft Robotic Gripper with Integrated Ripeness Sensing for Blackberry Harvesting
+Motion Planning for a Climbing Robot with Stochastic Grasps
+RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity
+Risk-Aware Path Planning Via Probabilistic Fusion of Traversability Prediction for Planetary Rovers on Heterogeneous Terrains
+A Gravity Compensation Strategy for On-Ground Validation of Orbital Manipulators
+Towards Bridging the Space Domain Gap for Satellite Pose Estimation Using Event Sensing
+Hardware-In-The-Loop Simulator with Low-Thrust Actuator for Free-Flying Robot's Omni-Directional Control
+Loitering and Trajectory Tracking of Suspended Payloads in Cable-Driven Balloons Using UGVs
+Design and Validation of a Multi-Arm Relocatable Manipulator for Space Applications
+Tentacle-Based Shape Shifting of Metamorphic Robots Using Fast Inverse Kinematics
+A Non-Planar Assembly of Modular Tetrahedral-Shaped Aerial Robots
+Learning Modular Robot Visual-Motor Locomotion Policies
+DisCo: A Multiagent 3D Coordinate System for Lattice Based Modular Self-Reconfigurable Robots
+Finding Optimal Modular Robots for Aerial Tasks
+Coaxial Modular Aerial System and the Reconfiguration Applications
+ADAPT: A 3 Degrees of Freedom Reconfigurable Force Balanced Parallel Manipulator for Aerial Applications
+Rearrange Indoor Scenes for Human-Robot Co-Activity
+Design and Evaluation of an Augmented Reality Head-Mounted Display User Interface for Controlling Legged Manipulators
+Exploiting Intrinsic Kinematic Null Space for Supernumerary Robotic Limbs Control
+Robot Explanatory Narratives of Collaborative and Adaptive Experiences
+Evaluating Immersive Teleoperation Interfaces: Coordinating Robot Radiation Monitoring Tasks in Nuclear Facilities
+A Social Referencing Disambiguation Framework for Domestic Service Robots
+Ex(plainable) Machina: How Social-Implicit XAI Affects Complex Human-Robot Teaming Tasks
+Towards Safe Remote Manipulation: User Command Adjustment Based on Risk Prediction for Dynamic Obstacles
+Computational Methods to Support Prototyping of an Adaptive Robot Joystick Controller for Children with Upper Limb Impairments
+Ethical Assessment of a Hospital Disinfection Robot
+Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph
+A Study into Understanding User Requirements to Inform the Design of Customisable Robotic Pain Management Devices
+Occlusion-Aware Crowd Navigation Using People As Sensors
+Efficiently Approaching Groups of People in a Socially Acceptable Manner in Environments with Obstacles
+SoLo T-DIRL: Socially-Aware Dynamic Local Planner Based on Trajectory-Ranked Deep Inverse Reinforcement Learning
+Noise and Environmental Justice in Drone Fleet Delivery Paths: A Simulation-Based Audit and Algorithm for Fairer Impact Distribution
+Actuator Capabilities Aware Limitation for TDPA Passivity Controller Action
+Upper-Limb Geometric MyoPassivity Map for Physical Human-Robot Interaction
+Learning and Blending Robot Hugging Behaviors in Time and Space
+Quadruped Guidance Robot for the Visually Impaired: A Comfort-Based Approach
+Online Learning and Suppression of Vibration in Collaborative Robots with Power Tools
+"Towards Human-Robot Collaboration with Parallel Robots by Kinetostatic Analysis, Impedance Control and Contact Detection"
+Proprioceptive Sensor-Based Simultaneous Multi-Contact Point Localization and Force Identification for Robotic Arms
+Nonlinear Model Predictive Control of a 3D Hopping Robot: Leveraging Lie Group Integrators for Dynamically Stable Behaviors
+Anchoring Sagittal Plane Templates in a Spatial Quadruped
+External Force Estimation of Legged Robots Via a Factor Graph Framework with a Disturbance Observer
+Morphological Characteristics That Enable Stable and Efficient Walking in Hexapod Robot Driven by Reflex-Based Intra-Limb Coordination
+Efficient Learning of Locomotion Skills through the Discovery of Diverse Environmental Trajectory Generator Priors
+Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs
+Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators
+Hierarchical Adaptive Loco-Manipulation Control for Quadruped Robots
+Probabilistic Contact State Estimation for Legged Robots Using Inertial Information
+Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot
+Event-Based Agile Object Catching with a Quadrupedal Robot
+Evaluation of Legged Robot Landing Capability under Aggressive Linear and Angular Velocities
+Bipedal Robot Walking Control Using Human Whole-Body Dynamic Telelocomotion
+Foot Stepping Algorithm of Humanoids with Double Support Time Adjustment Based on Capture Point Control
+Optimizing Bipedal Locomotion for the 100m Dash with Comparison to Human Running
+Effect of the Dynamics of a Horizontally Wobbling Mass on Biped Walking Performance
+Robust Bipedal Locomotion: Leveraging Saltation Matrices for Gait Optimization
+Topology-Based MPC for Automatic Footstep Placement and Contact Surface Selection
+Online Non-Linear Centroidal MPC for Humanoid Robots Payload Carrying with Contact-Stable Force Parametrization
+Holistic View of Inverse Optimal Control by Introducing Projections on Singularity Curves
+The Role of Symmetry in Constructing Geometric Flat Outputs for Free-Flying Robotic Systems
+On the Learned Balance Manifold of Underactuated Balance Robots
+Controlling an Underactuated AUV As an Inverted Pendulum Using Nonlinear Model Predictive Control and Behavior Trees
+Towards Exact Interaction Force Control for Underactuated Quadrupedal Systems with Orthogonal Projection and Quadratic Programming
+Reinforcement Learning for Laser Welding Speed Control Minimizing Bead Width Error
+Real-Time Model Predictive Control for Industrial Manipulators with Singularity-Tolerant Hierarchical Task Control
+High-Speed High-Accuracy Spatial Curve Tracking Using Motion Primitives in Industrial Robots
+A New Robust Control Framework for Robot Manipulators without Velocity Measurements: A Modified Dual-Loop Control Scheme
+"Optimal Workpiece Placement Based on Robot Reach, Manipulability and Joint Torques"
+Experimental Workflow Implementation for Automatic Detection of Filament Deviation in 3D Robotic Printing Process
+Neuro-Adaptive Dynamic Control with Edge-Computing for Collaborative Digital Twin of an Industrial Robotic Manipulator
+Contact-Based Pose Estimation of Workpieces for Robotic Setups
+Local Layer Splitting: An Additive Manufacturing Method to Define the Mechanical Properties of Soft Pneumatic Actuators During Fabrication
+Support Generation for Robot-Assisted 3D Printing with Curved Layers
+Learning Deposition Policies for Fused Multi-Material 3D Printing
+Transparent Objects: A Corner Case in Stereo Matching
+D2NT: A High-Performing Depth-To-Normal Translator
+Security-Aware Reinforcement Learning under Linear Temporal Logic Specifications
+Global Localization in Repetitive and Ambiguous Environments
+Grey-Box Learning of Adaptive Manipulation Primitives for Robotic Assembly
+Speeding up Assembly Sequence Planning through Learning Removability Probabilities
+Planning Assembly Sequence with Graph Transformer
+CFVS: Coarse-To-Fine Visual Servoing for 6-DoF Object-Agnostic Peg-In-Hole Assembly
+Probabilistic Rare-Event Verification for Temporal Logic Robot Tasks
+Safe Model-Based Control from Signal Temporal Logic Specifications Using Recurrent Neural Networks
+Temporal Logic Swarm Control with Splitting and Merging
+Synthesizing Reactive Test Environments for Autonomous Systems: Testing Reach-Avoid Specifications with Multi-Commodity Flows
+HaPPArray: Haptic Pneumatic Pouch Array for Feedback in Hand-Held Robots
+Vis2Hap: Vision-Based Haptic Rendering by Cross-Modal Generation
+A Plug-In Weight-Shifting Module That Adds Emotional Expressiveness to Inanimate Objects in Handheld Interaction
+Model-Mediated Teleoperation for Remote Haptic Texture Sharing: Initial Study of Online Texture Modeling and Rendering
+Using a Collaborative Robotic Arm As Human-Machine Interface: System Setup and Application to Pose Control Tasks
+Disturbance Observer Based Contact Detection for Motorized Hydraulic Actuators
+A Framework for Active Haptic Guidance Using Robotic Haptic Proxies
+An Optimized Portable Cable-Driven Haptic Robot Enables Free Motion and Hard Contact
+Enable Natural Tactile Interaction for Robot Dog Based on Large-Format Distributed Flexible Pressure Sensors
+Multi-Modal Interactive Perception in Human Control of Complex Objects
+Soft Sensing Skins for Arbitrary Objects: An Automatic Framework
+Error-Domain Conservativity Control to Transparently Increase the Stability Range of Time-Discretized Controllers
+A Digital Twin for Teleoperation of Vehicles in Urban Environments
+WE-Filter: Adaptive Acceptance Criteria for Filter-Based Shared Autonomy
+Monocular Reactive Collision Avoidance for MAV Teleoperation with Deep Reinforcement Learning
+HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators
+DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction
+SonicFinger: Pre-Touch and Contact Detection Tactile Sensorfor Reactive Pregrasping
+Simultaneous Tactile Estimation and Control of Extrinsic Contact
+A Miniaturised Camera-Based Multi-Modal Tactile Sensor
+Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing
+Estimating Tactile Models of Heterogeneous Deformable Objects in Real Time
+Tactile Identification of Object Shapes Via In-Hand Manipulation with a Minimalistic Barometric Tactile Sensor Array
+Tactile Tool Manipulation
+Preliminary Evaluation of a Wearable Thruster for Arresting Backwards Falls
+A Method for Selecting Stumble Recovery Response in a Knee Exoskeleton
+A Dual-Arm Participated Human-Robot Collaboration Method for Upper Limb Rehabilitation of Hemiplegic Patients
+A Force-Sensitive Exoskeleton for Teleoperation: An Application in Elderly Care Robotics
+A Model-Based Analysis of the Effect of Repeated Unilateral Low Stiffness Perturbations on Human Gait: Toward Robot-Assisted Rehabilitation
+Shared Control of Assistive Robots through User-Intent Prediction and Hyperdimensional Recall of Reactive Behavior
+Towards Predicting Fine Finger Motions from Ultrasound Images Via Kinematic Representation
+Enabling Safe Walking Rehabilitation on the Exoskeleton Atalante: Experimental Results
+A Probabilistic Model of Activity Recognition with Loose Clothing
+Real-Time Estimation of Walking Speed and Stride Length Using an IMU Embedded in a Robotic Hip Exoskeleton
+Adaptive Based Assist-As-Needed Control Strategy for Ankle Movement Assistance
+Anticipation and Delayed Estimation of Sagittal Plane Human Hip Moments Using Deep Learning and a Robotic Hip Exoskeleton
+Safety under Uncertainty: Tight Bounds with Risk-Aware Control Barrier Functions
+Distributionally Robust RRT with Risk Allocation
+Statistical Safety and Robustness Guarantees for Feedback Motion Planning of Unknown Underactuated Stochastic Systems
+A Sensitivity-Aware Motion Planner (SAMP) to Generate Intrinsically-Robust Trajectories
+Proficiency Self-Assessment without Breaking the Robot: Anomaly Detection Using Assumption-Alignment Tracking from Safe Experiments
+Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective
+Analysing the Safety and Security of a UV-C Disinfection Robot
+Failure Detection and Fault Tolerant Control of a Jet-Powered Flying Humanoid Robot
+Testing Rare Downstream Safety Violations Via Upstream Adaptive Sampling of Perception Error Models
+Learning to Forecast Aleatoric and Epistemic Uncertainties Over Long Horizon Trajectories
+S∗: On Safe and Time Efficient Robot Motion Planning
+Online Update of Safety Assurances Using Confidence-Based Predictions
+Self-Supervised Point Cloud Understanding Via Mask Transformer and Contrastive Learning
