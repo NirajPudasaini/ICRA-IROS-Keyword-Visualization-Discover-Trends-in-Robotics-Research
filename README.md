@@ -13,3 +13,5 @@
 1. **Select Conference-Year Combinations**: Use the checkboxes to choose the desired conferences and years.
 2. **Generate Plot**: Click the "Generate Plot" button to see the visualized keyword analysis.
 3. **Explore Insights**: View the segmented bar chart to understand the common keywords and their frequencies.
+
+![ICRA 2022-20224 and IROS 2022-2023](icra24_iros23_kw.png)
